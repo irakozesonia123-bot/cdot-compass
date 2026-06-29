@@ -21,17 +21,18 @@ import resourcesJson from '@/data/resources.json'
 import eventsJson from '@/data/events.json'
 import spotlightsJson from '@/data/spotlights.json'
 
-// Division/project images are bundled under src/assets/images/photos. Vite
-// hashes them at build time; we resolve the stored filename to its final URL.
-// Remote image strings (employee avatars) pass through unchanged.
-const photoModules = import.meta.glob('../assets/images/photos/*.jpg', {
-  eager: true,
-  query: '?url',
-  import: 'default',
-}) as Record<string, string>
+// All imagery (division/project photos and employee avatars) is bundled under
+// src/assets/images. Vite hashes the files at build time; we resolve the stored
+// filename to its final URL. Any string that isn't a known filename (e.g. a
+// remote URL) passes through unchanged.
+const imageModules = {
+  ...import.meta.glob('../assets/images/photos/*.jpg', { eager: true, query: '?url', import: 'default' }),
+  ...import.meta.glob('../assets/images/avatars/*.jpg', { eager: true, query: '?url', import: 'default' }),
+  ...import.meta.glob('../assets/images/avatars/*.svg', { eager: true, query: '?url', import: 'default' }),
+} as Record<string, string>
 
 const photoMap: Record<string, string> = {}
-for (const [path, url] of Object.entries(photoModules)) {
+for (const [path, url] of Object.entries(imageModules)) {
   const file = path.split('/').pop()
   if (file) photoMap[file] = url
 }
@@ -46,7 +47,10 @@ export const departments = (departmentsJson as unknown as Department[]).map((d) 
   ...d,
   image: resolveImage(d.image),
 }))
-export const employees = employeesJson as unknown as Employee[]
+export const employees = (employeesJson as unknown as Employee[]).map((e) => ({
+  ...e,
+  image: resolveImage(e.image),
+}))
 export const projects = (projectsJson as unknown as Project[]).map((p) => ({
   ...p,
   image: resolveImage(p.image),

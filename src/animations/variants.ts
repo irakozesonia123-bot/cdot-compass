@@ -72,8 +72,8 @@ export const staggerItem: Variants = {
   },
 }
 
-/** Apply to a motion element's `whileHover` for a gentle lift. */
+/** Apply to a motion element's `whileHover` for a gentle, restrained lift. */
 export const hoverLift: { y: number; transition: Transition } = {
-  y: -4,
+  y: -3,
   transition: { duration: DURATION.fast, ease: EASE_OUT },
 }

@@ -5,7 +5,7 @@ import { PageContainer } from '@/components/layout/PageContainer'
 import { PageHeader } from '@/components/layout/PageHeader'
 import { PageSection } from '@/components/layout/PageSection'
 import { DemoDisclaimer } from '@/components/common/DemoDisclaimer'
-import { MountainBackdrop } from '@/components/common/MountainBackdrop'
+import { HeroPattern } from '@/components/common/HeroPattern'
 import { CompassQuiz } from '@/components/ai/CompassQuiz'
 import { CompassResults } from '@/components/ai/CompassResults'
 import { CareerPathExplorer } from '@/components/ai/CareerPathExplorer'
@@ -87,9 +87,9 @@ function IntroCard({ onStart }: { onStart: () => void }) {
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.4, ease: [0.22, 1, 0.36, 1] }}
-      className="relative isolate overflow-hidden rounded-card bg-gradient-to-br from-primary via-primary to-cdot-navy p-7 text-white shadow-card sm:p-9"
+      className="relative isolate overflow-hidden rounded-card bg-gradient-to-br from-primary to-cdot-navy p-8 text-white shadow-card sm:p-10"
     >
-      <MountainBackdrop className="absolute inset-x-0 bottom-0 -z-10 h-28 text-white" />
+      <HeroPattern className="absolute inset-0 -z-10 text-white" />
       <span className="flex h-12 w-12 items-center justify-center rounded-card bg-white/15">
         <Navigation className="h-6 w-6" aria-hidden />
       </span>

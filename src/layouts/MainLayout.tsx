@@ -103,9 +103,9 @@ export default function MainLayout() {
 function TopBar({ onMenuClick, onSearchClick }: { onMenuClick: () => void; onSearchClick: () => void }) {
   return (
     <header className="sticky top-0 z-30 border-b border-border bg-card/90 backdrop-blur">
-      {/* Colorado sunset brand ribbon (navy → blue → green → gold → orange) */}
+      {/* Restrained CDOT brand accent (navy → blue → orange) */}
       <div
-        className="h-[3px] w-full bg-[linear-gradient(90deg,hsl(var(--cdot-navy)),hsl(var(--primary)),hsl(var(--secondary)),hsl(var(--cdot-yellow)),hsl(var(--cdot-orange)))]"
+        className="h-[3px] w-full bg-[linear-gradient(90deg,hsl(var(--cdot-navy)),hsl(var(--primary)),hsl(var(--cdot-orange)))]"
         aria-hidden
       />
       <div className="flex h-16 items-center justify-between gap-3 px-4 sm:px-6 lg:px-8">

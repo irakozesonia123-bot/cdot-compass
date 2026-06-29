@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { Building2, Calendar, Coffee, Compass, Navigation, Sparkles } from 'lucide-react'
 import { reveal } from '@/animations/variants'
-import { MountainBackdrop } from '@/components/common/MountainBackdrop'
+import { HeroPattern } from '@/components/common/HeroPattern'
 import { INTERN_PROFILE, getOverallProgress } from '@/config/internProfile'
 import {
   getDepartmentBySlug,
@@ -38,8 +38,8 @@ export function WelcomeHero() {
       className="grid gap-6 lg:grid-cols-3"
     >
       {/* Greeting / CTAs */}
-      <div className="relative isolate overflow-hidden rounded-card bg-gradient-to-br from-primary via-primary to-cdot-navy p-7 text-white shadow-card sm:p-8 lg:col-span-2">
-        <MountainBackdrop className="absolute inset-x-0 bottom-0 -z-10 h-28 text-white" />
+      <div className="relative isolate overflow-hidden rounded-card bg-gradient-to-br from-primary to-cdot-navy p-8 text-white shadow-card sm:p-10 lg:col-span-2">
+        <HeroPattern className="absolute inset-0 -z-10 text-white" />
         <p className="text-small font-medium text-white/80">
           {INTERN_PROFILE.role} · Week {INTERN_PROFILE.weekNumber} of {INTERN_PROFILE.programWeeks}
         </p>

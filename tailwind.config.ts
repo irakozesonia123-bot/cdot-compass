@@ -85,10 +85,10 @@ export default {
         sm: 'calc(var(--radius) - 4px)',
       },
       boxShadow: {
-        soft: '0 1px 2px rgba(16, 24, 40, 0.04), 0 1px 3px rgba(16, 24, 40, 0.06)',
-        card: '0 2px 8px rgba(16, 24, 40, 0.06)',
-        'card-hover': '0 12px 28px rgba(16, 24, 40, 0.10)',
-        dialog: '0 24px 48px rgba(16, 24, 40, 0.18)',
+        soft: '0 1px 2px rgba(16, 24, 40, 0.04), 0 1px 3px rgba(16, 24, 40, 0.05)',
+        card: '0 1px 2px rgba(16, 24, 40, 0.04), 0 2px 6px rgba(16, 24, 40, 0.05)',
+        'card-hover': '0 6px 16px rgba(16, 24, 40, 0.08)',
+        dialog: '0 24px 48px rgba(16, 24, 40, 0.16)',
       },
       keyframes: {
         'accordion-down': {

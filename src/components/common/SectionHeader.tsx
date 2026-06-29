@@ -1,14 +1,18 @@
 import type { LucideIcon } from 'lucide-react'
 import type { ReactNode } from 'react'
-import { ACCENT_STYLES, type AccentKey } from '@/config/accents'
+import type { AccentKey } from '@/config/accents'
 import { cn } from '@/lib/utils'
 
 interface SectionHeaderProps {
   title: string
   description?: string
-  /** Optional leading icon shown in an accent chip. */
+  /** Optional leading icon, shown in a restrained neutral chip. */
   icon?: LucideIcon
-  /** Accent color for the icon chip. */
+  /**
+   * Accepted for API compatibility, but section headers use a neutral
+   * treatment by design — accent color is reserved for page identity
+   * (PageHeader) and meaning (status badges, meters).
+   */
   accent?: AccentKey
   /** Optional content aligned to the right (e.g. a "View all" link). */
   action?: ReactNode
@@ -16,29 +20,22 @@ interface SectionHeaderProps {
 }
 
 /**
- * Consistent heading for page sections: optional accent icon, title,
- * supporting description, and an optional right-aligned action.
+ * Consistent heading for in-page sections: a calm neutral icon chip, a title,
+ * a supporting description, and an optional right-aligned action. Kept
+ * intentionally monochromatic for a cohesive, enterprise-grade feel.
  */
 export function SectionHeader({
   title,
   description,
   icon: Icon,
-  accent = 'blue',
   action,
   className,
 }: SectionHeaderProps) {
-  const accentStyle = ACCENT_STYLES[accent]
   return (
     <div className={cn('flex items-end justify-between gap-4', className)}>
       <div className="flex items-center gap-3">
         {Icon && (
-          <span
-            className={cn(
-              'flex h-10 w-10 shrink-0 items-center justify-center rounded-button',
-              accentStyle.soft,
-              accentStyle.icon,
-            )}
-          >
+          <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-button bg-muted text-muted-foreground">
             <Icon className="h-5 w-5" aria-hidden />
           </span>
         )}

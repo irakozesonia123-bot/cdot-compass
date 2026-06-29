@@ -26,7 +26,7 @@ import { StatCard } from '@/components/common/StatCard'
 import { Card } from '@/components/common/Card'
 import { CheckList } from '@/components/common/CheckList'
 import { DemoDisclaimer } from '@/components/common/DemoDisclaimer'
-import { MountainBackdrop } from '@/components/common/MountainBackdrop'
+import { HeroPattern } from '@/components/common/HeroPattern'
 import { ACCENT_STYLES, type AccentKey } from '@/config/accents'
 import { getStats } from '@/utils/data'
 import { cn } from '@/lib/utils'
@@ -72,8 +72,8 @@ export default function Impact() {
       />
 
       {/* Value proposition */}
-      <div className="relative isolate overflow-hidden rounded-card bg-gradient-to-br from-primary via-primary to-cdot-navy p-7 text-white shadow-card sm:p-9">
-        <MountainBackdrop className="absolute inset-x-0 bottom-0 -z-10 h-28 text-white" />
+      <div className="relative isolate overflow-hidden rounded-card bg-gradient-to-br from-primary to-cdot-navy p-8 text-white shadow-card sm:p-10">
+        <HeroPattern className="absolute inset-0 -z-10 text-white" />
         <span className="inline-flex items-center gap-1.5 rounded-full bg-white/15 px-2.5 py-0.5 text-xs font-semibold uppercase tracking-wide">
           Innovation Challenge Prototype
         </span>

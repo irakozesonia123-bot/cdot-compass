@@ -441,7 +441,9 @@ const employees = EMP.map((e, idx) => ({
   favoritePart: e.fav,
   advice: e.adv,
   funFact: e.fun,
-  image: `https://randomuser.me/api/portraits/${e.g}/${e.p}.jpg`,
+  // Avatars are bundled locally under src/assets/images/avatars/<id>.jpg and
+  // resolved to hashed URLs in utils/data.ts.
+  image: `${empId(idx)}.jpg`,
   ...computeFlags(e, idx),
 }))
 
@@ -549,8 +551,8 @@ const SONIA = {
   favoritePart: 'Turning a real intern frustration into something that could actually help the next group of interns.',
   advice: 'Be curious. Reach out to people outside your own team — you’ll be surprised how much you can learn.',
   funFact: 'This spotlight was created inside the app it describes.',
-  // Clean professional monogram avatar on CDOT blue (not a real photo).
-  image: 'https://api.dicebear.com/9.x/initials/svg?seed=Sonia%20Irakoze&backgroundColor=0057b8&fontWeight=600',
+  // Clean professional monogram avatar on CDOT blue (bundled locally, not a photo).
+  image: 'emp-41.svg',
   mentor: false,
   coffeeChat: true,
   jobShadow: false,
