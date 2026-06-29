@@ -24,6 +24,3 @@ pnpm-debug.log*
 
 # Dev/QA working screenshots (curated demo images live in docs/screenshots/)
 /screenshots/
-
-# Submission deliverables (not part of the app)
-CDOT-Compass-Executive-Presentation.*
