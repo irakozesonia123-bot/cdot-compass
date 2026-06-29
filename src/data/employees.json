@@ -1,0 +1,2773 @@
+[
+  {
+    "id": "emp-01",
+    "name": "Daniel Whitaker",
+    "title": "Bridge Asset Manager",
+    "division": "bridge-asset-management",
+    "bio": "Daniel oversees the health of Colorado’s state-owned bridges, turning inspection data into long-term investment plans.",
+    "yearsExperience": 14,
+    "location": "Denver",
+    "pronouns": "he/him",
+    "skills": [
+      "Asset Management",
+      "Load Rating",
+      "AASHTOWare BrDR",
+      "Structural Analysis"
+    ],
+    "projects": [
+      "prj-04",
+      "prj-05",
+      "prj-07"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Structures)",
+        "subtitle": "Colorado School of Mines",
+        "period": "2008 – 2012",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2011",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2012 – 2015",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2015 – 2019",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Bridge Asset Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Bridge Asset Management Program",
+    "favoritePart": "Knowing the bridges I help maintain carry millions of people safely every year.",
+    "advice": "Learn to read a bridge like a story — every crack and joint is telling you something.",
+    "funFact": "Has photographed over 300 Colorado bridges for fun.",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "mentor": true,
+    "coffeeChat": false,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-02",
+    "name": "Priya Nair",
+    "title": "Senior Bridge Engineer",
+    "division": "bridge-asset-management",
+    "bio": "Priya designs and rehabilitates bridge structures across the I-70 mountain corridor.",
+    "yearsExperience": 11,
+    "location": "Lakewood",
+    "pronouns": "she/her",
+    "skills": [
+      "LRFD Design",
+      "Steel & Concrete Design",
+      "MicroStation",
+      "Structural Analysis"
+    ],
+    "projects": [
+      "prj-04",
+      "prj-05"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Structures)",
+        "subtitle": "University of Colorado Denver",
+        "period": "2011 – 2015",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2014",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2015 – 2018",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2018 – 2022",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2022 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Senior Bridge Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Floyd Hill to Veterans Memorial Tunnels Improvements",
+    "favoritePart": "The moment a design leaves the screen and becomes steel and concrete.",
+    "advice": "Master the fundamentals of statics — everything else builds on them.",
+    "funFact": "Plays cello in a community orchestra.",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-03",
+    "name": "Marcus Bell",
+    "title": "Bridge Inspection Lead",
+    "division": "bridge-asset-management",
+    "bio": "Marcus leads the crews that climb, rappel, and rate bridges in every corner of the state.",
+    "yearsExperience": 16,
+    "location": "Grand Junction",
+    "pronouns": "he/him",
+    "skills": [
+      "Bridge Inspection",
+      "Load Rating",
+      "Asset Management",
+      "Rope Access"
+    ],
+    "projects": [
+      "prj-05",
+      "prj-11"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Structures)",
+        "subtitle": "Colorado Mesa University",
+        "period": "2006 – 2010",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2009",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2010 – 2013",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2013 – 2017",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2017 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Bridge Inspection Lead",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Colorado Bridge Inspection & Load Rating Initiative",
+    "favoritePart": "Working outdoors and solving puzzles that keep people safe.",
+    "advice": "Get into the field early; you learn more under a bridge than in any classroom.",
+    "funFact": "Certified rope-access technician and avid rock climber.",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-04",
+    "name": "Hannah Brooks",
+    "title": "Bridge Engineer I",
+    "division": "bridge-asset-management",
+    "bio": "Hannah is an early-career structural engineer focused on bridge load ratings and rehab design.",
+    "yearsExperience": 3,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Structural Analysis",
+      "LRFD Design",
+      "MicroStation",
+      "AASHTOWare BrDR"
+    ],
+    "projects": [
+      "prj-05",
+      "prj-11"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Structures)",
+        "subtitle": "Colorado State University",
+        "period": "2019 – 2023",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2022",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Bridge Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "South Platte River Bridge Scour Countermeasures",
+    "favoritePart": "Learning something new from senior engineers almost every day.",
+    "advice": "Ask questions relentlessly — curiosity is a skill.",
+    "funFact": "Builds intricate model bridges out of popsicle sticks.",
+    "image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-05",
+    "name": "Elena Vargas",
+    "title": "Hydraulics Program Manager",
+    "division": "hydraulics",
+    "bio": "Elena leads CDOT’s hydraulics program, protecting roads and bridges from Colorado’s flash floods.",
+    "yearsExperience": 15,
+    "location": "Pueblo",
+    "pronouns": "she/her",
+    "skills": [
+      "HEC-RAS",
+      "Floodplain Mapping",
+      "Scour Analysis",
+      "Stormwater"
+    ],
+    "projects": [
+      "prj-08",
+      "prj-12",
+      "prj-16"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Water Resources)",
+        "subtitle": "Colorado State University Pueblo",
+        "period": "2007 – 2011",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2010",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2011 – 2014",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2014 – 2018",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2018 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Hydraulics Program Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Culvert & Drainage Inventory (GIS)",
+    "favoritePart": "Designing infrastructure that stands up to nature at its most extreme.",
+    "advice": "Respect water — it always finds the weakness in your design.",
+    "funFact": "Whitewater kayaks the rivers she helps model.",
+    "image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-06",
+    "name": "Tom Castellano",
+    "title": "Senior Hydraulics Engineer",
+    "division": "hydraulics",
+    "bio": "Tom models rivers and designs the culverts and bridges that cross them.",
+    "yearsExperience": 12,
+    "location": "Glenwood Springs",
+    "pronouns": "he/him",
+    "skills": [
+      "HEC-RAS",
+      "Hydrologic Modeling",
+      "Culvert Design",
+      "HY-8"
+    ],
+    "projects": [
+      "prj-08",
+      "prj-12",
+      "prj-16"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Water Resources)",
+        "subtitle": "University of Colorado Boulder",
+        "period": "2010 – 2014",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2013",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2014 – 2017",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2017 – 2021",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2021 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Senior Hydraulics Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "I-70 Glenwood Canyon Resiliency & Rockfall Mitigation",
+    "favoritePart": "Seeing a culvert I designed handle a 100-year storm without a hitch.",
+    "advice": "Field-verify everything; the real world rarely matches the plan set.",
+    "funFact": "Fly-fishing guide on weekends.",
+    "image": "https://randomuser.me/api/portraits/men/51.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-07",
+    "name": "Aisha Rahman",
+    "title": "Water Resources Engineer",
+    "division": "hydraulics",
+    "bio": "Aisha specializes in bridge scour and floodplain analysis for major river crossings.",
+    "yearsExperience": 7,
+    "location": "Fort Collins",
+    "pronouns": "she/her",
+    "skills": [
+      "Scour Analysis",
+      "Floodplain Mapping",
+      "GIS",
+      "Stormwater"
+    ],
+    "projects": [
+      "prj-08",
+      "prj-12",
+      "prj-15"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Water Resources)",
+        "subtitle": "Colorado State University",
+        "period": "2015 – 2019",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2018",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2022",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2022 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Water Resources Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "South Platte River Bridge Scour Countermeasures",
+    "favoritePart": "The detective work of figuring out how water moves around a structure.",
+    "advice": "Learn GIS early — spatial thinking sets great water engineers apart.",
+    "funFact": "Maintains a backyard rain-garden experiment.",
+    "image": "https://randomuser.me/api/portraits/women/16.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-08",
+    "name": "Kevin O’Donnell",
+    "title": "Hydraulics Engineer I",
+    "division": "hydraulics",
+    "bio": "Kevin supports drainage design and floodplain studies across the Front Range.",
+    "yearsExperience": 2,
+    "location": "Denver",
+    "pronouns": "he/him",
+    "skills": [
+      "HEC-RAS",
+      "Culvert Design",
+      "HY-8",
+      "GIS"
+    ],
+    "projects": [
+      "prj-12",
+      "prj-15"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Water Resources)",
+        "subtitle": "Colorado School of Mines",
+        "period": "2020 – 2024",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2023",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2027",
+        "type": "role"
+      },
+      {
+        "title": "Hydraulics Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2025 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Stormwater MS4 Compliance",
+    "favoritePart": "Turning messy field data into a clean, working model.",
+    "advice": "Double-check your units — hydrology is unforgiving.",
+    "funFact": "Storm-chases supercells across the eastern plains.",
+    "image": "https://randomuser.me/api/portraits/men/60.jpg",
+    "mentor": false,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-09",
+    "name": "Robert Tanaka",
+    "title": "Resident Engineer",
+    "division": "construction",
+    "bio": "Robert runs major construction projects in the field, from groundbreaking to ribbon-cutting.",
+    "yearsExperience": 18,
+    "location": "Colorado Springs",
+    "pronouns": "he/him",
+    "skills": [
+      "Construction Management",
+      "Contract Administration",
+      "Scheduling (P6)",
+      "Quality Assurance"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-14",
+      "prj-21"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "University of Colorado Boulder",
+        "period": "2004 – 2008",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2007",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2008 – 2011",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2011 – 2015",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2015 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Resident Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "I-25 South Gap Widening (Monument to Castle Rock)",
+    "favoritePart": "Standing on a finished interchange that started as lines on paper.",
+    "advice": "Build relationships with your contractors — trust moves projects.",
+    "funFact": "Builds his own furniture in a home wood shop.",
+    "image": "https://randomuser.me/api/portraits/men/33.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-10",
+    "name": "Sofia Mendez",
+    "title": "Construction Project Engineer",
+    "division": "construction",
+    "bio": "Sofia manages budgets, schedules, and quality on Front Range construction projects.",
+    "yearsExperience": 9,
+    "location": "Aurora",
+    "pronouns": "she/her",
+    "skills": [
+      "Project Controls",
+      "Cost Estimating",
+      "Bluebeam Revu",
+      "Inspection"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-06",
+      "prj-21",
+      "prj-30"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "University of Colorado Denver",
+        "period": "2013 – 2017",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2016",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2017 – 2020",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2020 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Construction Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Central 70 Project (Denver)",
+    "favoritePart": "Solving the daily puzzle of keeping a project on time and on budget.",
+    "advice": "Document everything — your notes are your best memory and defense.",
+    "funFact": "Teaches salsa dance on weeknights.",
+    "image": "https://randomuser.me/api/portraits/women/9.jpg",
+    "mentor": true,
+    "coffeeChat": false,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-11",
+    "name": "James Okoro",
+    "title": "Construction Inspector",
+    "division": "construction",
+    "bio": "James verifies that what gets built matches the plans and specs, one pour at a time.",
+    "yearsExperience": 6,
+    "location": "Greeley",
+    "pronouns": "he/him",
+    "skills": [
+      "Inspection",
+      "Quality Assurance",
+      "Contract Administration",
+      "Materials Testing"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-03",
+      "prj-06",
+      "prj-07",
+      "prj-21",
+      "prj-30"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "University of Northern Colorado",
+        "period": "2016 – 2020",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2019",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2020 – 2023",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2027",
+        "type": "role"
+      },
+      {
+        "title": "Construction Inspector",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "North I-25 Express Lanes (Berthoud to Fort Collins)",
+    "favoritePart": "Catching the small things before they become big problems.",
+    "advice": "Learn to read plans fluently — it is the language of the field.",
+    "funFact": "Coaches a youth soccer team.",
+    "image": "https://randomuser.me/api/portraits/men/52.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-12",
+    "name": "Megan Foster",
+    "title": "Construction Engineer I",
+    "division": "construction",
+    "bio": "Megan supports field engineering and project controls on rural highway projects.",
+    "yearsExperience": 3,
+    "location": "Durango",
+    "pronouns": "she/her",
+    "skills": [
+      "Scheduling (P6)",
+      "Cost Estimating",
+      "Bluebeam Revu",
+      "Inspection"
+    ],
+    "projects": [
+      "prj-03",
+      "prj-04",
+      "prj-06",
+      "prj-07",
+      "prj-21",
+      "prj-30"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "Colorado Mesa University",
+        "period": "2019 – 2023",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2022",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Construction Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "US 550/US 160 Connection (Durango)",
+    "favoritePart": "Being outside and seeing tangible progress every single day.",
+    "advice": "Say yes to field assignments — they accelerate your learning.",
+    "funFact": "Through-hiked the 486-mile Colorado Trail.",
+    "image": "https://randomuser.me/api/portraits/women/20.jpg",
+    "mentor": false,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-13",
+    "name": "David Kim",
+    "title": "Transportation Planning Manager",
+    "division": "planning",
+    "bio": "David leads long-range and corridor planning that shapes Colorado’s transportation future.",
+    "yearsExperience": 13,
+    "location": "Denver",
+    "pronouns": "he/him",
+    "skills": [
+      "Transportation Planning",
+      "Travel Demand Modeling",
+      "Public Engagement",
+      "Multimodal Planning"
+    ],
+    "projects": [
+      "prj-03",
+      "prj-23",
+      "prj-28"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Urban & Regional Planning",
+        "subtitle": "University of Denver",
+        "period": "2009 – 2013",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2012",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2013 – 2016",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2016 – 2020",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2020 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Transportation Planning Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Front Range Passenger Rail Planning Study",
+    "favoritePart": "Connecting community voices to real infrastructure decisions.",
+    "advice": "Planning is half data, half listening — get good at both.",
+    "funFact": "Collects vintage transit maps.",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": false,
+    "remote": true
+  },
+  {
+    "id": "emp-14",
+    "name": "Rachel Green",
+    "title": "Senior Transportation Planner",
+    "division": "planning",
+    "bio": "Rachel turns travel data into corridor plans and multimodal strategies.",
+    "yearsExperience": 10,
+    "location": "Lakewood",
+    "pronouns": "she/her",
+    "skills": [
+      "GIS",
+      "Data Analysis",
+      "TransCAD",
+      "NEPA"
+    ],
+    "projects": [
+      "prj-03",
+      "prj-14",
+      "prj-23",
+      "prj-28"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Urban & Regional Planning",
+        "subtitle": "University of Colorado Boulder",
+        "period": "2012 – 2016",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2015",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2016 – 2019",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2023",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Senior Transportation Planner",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "SH 9 Frisco to Breckenridge Multimodal",
+    "favoritePart": "Finding the story hidden in a messy dataset.",
+    "advice": "Learn to visualize data — a good map wins more arguments than a spreadsheet.",
+    "funFact": "Bike-commutes year-round, even through snow.",
+    "image": "https://randomuser.me/api/portraits/women/21.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-15",
+    "name": "Anthony Russo",
+    "title": "Multimodal Planner",
+    "division": "planning",
+    "bio": "Anthony plans bike, pedestrian, and transit improvements across mountain communities.",
+    "yearsExperience": 7,
+    "location": "Fort Collins",
+    "pronouns": "he/him",
+    "skills": [
+      "Multimodal Planning",
+      "Public Engagement",
+      "GIS",
+      "Transportation Planning"
+    ],
+    "projects": [
+      "prj-03",
+      "prj-14"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Urban & Regional Planning",
+        "subtitle": "Colorado State University",
+        "period": "2015 – 2019",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2018",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2022",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2022 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Multimodal Planner",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "SH 9 Frisco to Breckenridge Multimodal",
+    "favoritePart": "Designing streets that work for people, not just cars.",
+    "advice": "Spend time in the places you plan for — context is everything.",
+    "funFact": "Competitive gravel cyclist.",
+    "image": "https://randomuser.me/api/portraits/men/53.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-16",
+    "name": "Linda Tran",
+    "title": "Planning Analyst I",
+    "division": "planning",
+    "bio": "Linda supports data analysis and public engagement for statewide planning studies.",
+    "yearsExperience": 2,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Data Analysis",
+      "GIS",
+      "Travel Demand Modeling",
+      "Public Engagement"
+    ],
+    "projects": [
+      "prj-14",
+      "prj-24"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Urban & Regional Planning",
+        "subtitle": "University of Colorado Denver",
+        "period": "2020 – 2024",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2023",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2027",
+        "type": "role"
+      },
+      {
+        "title": "Planning Analyst I",
+        "subtitle": "Colorado DOT",
+        "period": "2025 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Front Range Passenger Rail Planning Study",
+    "favoritePart": "Helping people understand complex projects through clear visuals.",
+    "advice": "Get comfortable with ambiguity — planning rarely has one right answer.",
+    "funFact": "Hand-letters event posters as a hobby.",
+    "image": "https://randomuser.me/api/portraits/women/30.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": true
+  },
+  {
+    "id": "emp-17",
+    "name": "Sarah Chen",
+    "title": "Environmental Program Manager",
+    "division": "environmental",
+    "bio": "Sarah guides projects through environmental review, balancing infrastructure and ecology.",
+    "yearsExperience": 14,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "NEPA",
+      "Permitting",
+      "Section 404",
+      "Wildlife Biology"
+    ],
+    "projects": [
+      "prj-24",
+      "prj-25",
+      "prj-30"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Environmental Engineering",
+        "subtitle": "Colorado State University",
+        "period": "2008 – 2012",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2011",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2012 – 2015",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2015 – 2019",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Environmental Program Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Wildlife Connectivity & Fencing Program (US 285)",
+    "favoritePart": "Finding solutions that move projects forward and protect Colorado’s landscapes.",
+    "advice": "Get involved early — environmental issues are cheapest to solve at the start.",
+    "funFact": "Volunteer raptor monitor.",
+    "image": "https://randomuser.me/api/portraits/women/1.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-18",
+    "name": "Michael Berg",
+    "title": "NEPA Specialist",
+    "division": "environmental",
+    "bio": "Michael prepares the environmental documents that keep projects compliant and on schedule.",
+    "yearsExperience": 9,
+    "location": "Golden",
+    "pronouns": "he/him",
+    "skills": [
+      "NEPA",
+      "Air Quality (AERMOD)",
+      "Permitting",
+      "GIS"
+    ],
+    "projects": [
+      "prj-24",
+      "prj-25",
+      "prj-30"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Environmental Engineering",
+        "subtitle": "Colorado School of Mines",
+        "period": "2013 – 2017",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2016",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2017 – 2020",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2020 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "NEPA Specialist",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Vail Pass Auxiliary Lanes & Wildlife Crossings",
+    "favoritePart": "Untangling regulations so engineers can build.",
+    "advice": "Writing is an engineering skill — learn to make complex things clear.",
+    "funFact": "Amateur mycologist who forages mushrooms.",
+    "image": "https://randomuser.me/api/portraits/men/34.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-19",
+    "name": "Gabriela Santos",
+    "title": "Wildlife Biologist",
+    "division": "environmental",
+    "bio": "Gabriela designs wildlife crossings and connectivity solutions for highway projects.",
+    "yearsExperience": 6,
+    "location": "Durango",
+    "pronouns": "she/her",
+    "skills": [
+      "Wildlife Biology",
+      "Wetlands Delineation",
+      "GIS",
+      "Permitting"
+    ],
+    "projects": [
+      "prj-24",
+      "prj-25"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Environmental Engineering",
+        "subtitle": "Colorado Mesa University",
+        "period": "2016 – 2020",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2019",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2020 – 2023",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2027",
+        "type": "role"
+      },
+      {
+        "title": "Wildlife Biologist",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Wildlife Connectivity & Fencing Program (US 285)",
+    "favoritePart": "Watching trail-cam footage of animals using a crossing we designed.",
+    "advice": "Pair your science with engineering literacy — you will be unstoppable.",
+    "funFact": "Has rehabilitated injured owls.",
+    "image": "https://randomuser.me/api/portraits/women/24.jpg",
+    "mentor": true,
+    "coffeeChat": false,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-20",
+    "name": "Eric Larsson",
+    "title": "Environmental Engineer I",
+    "division": "environmental",
+    "bio": "Eric supports stormwater compliance and environmental permitting statewide.",
+    "yearsExperience": 3,
+    "location": "Fort Collins",
+    "pronouns": "he/him",
+    "skills": [
+      "Stormwater Compliance",
+      "NEPA",
+      "GIS",
+      "Permitting"
+    ],
+    "projects": [
+      "prj-12",
+      "prj-16",
+      "prj-24"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Environmental Engineering",
+        "subtitle": "Colorado State University",
+        "period": "2019 – 2023",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2022",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Environmental Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Stormwater MS4 Compliance",
+    "favoritePart": "Doing work that visibly protects rivers and wildlife.",
+    "advice": "Learn the permits cold — they shape every project schedule.",
+    "funFact": "Competitive birder with a 300-species life list.",
+    "image": "https://randomuser.me/api/portraits/men/54.jpg",
+    "mentor": false,
+    "coffeeChat": true,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-21",
+    "name": "Frank DeLuca",
+    "title": "Maintenance Superintendent",
+    "division": "maintenance",
+    "bio": "Frank leads the crews that keep mountain highways open through Colorado winters.",
+    "yearsExperience": 20,
+    "location": "Glenwood Springs",
+    "pronouns": "he/him",
+    "skills": [
+      "Snow & Ice Operations",
+      "Avalanche Mitigation",
+      "Fleet Management",
+      "Asset Management"
+    ],
+    "projects": [
+      "prj-15",
+      "prj-18",
+      "prj-20"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "Colorado Mesa University",
+        "period": "2002 – 2006",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2005",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2006 – 2009",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2009 – 2013",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2013 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Maintenance Superintendent",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "I-70 Glenwood Canyon Resiliency & Rockfall Mitigation",
+    "favoritePart": "Knowing my team keeps people moving safely in brutal conditions.",
+    "advice": "Respect the people in the field — they know things no manual teaches.",
+    "funFact": "Former backcountry ski patroller.",
+    "image": "https://randomuser.me/api/portraits/men/40.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-22",
+    "name": "Nicole Adams",
+    "title": "Maintenance Asset Manager",
+    "division": "maintenance",
+    "bio": "Nicole uses data to decide where every maintenance dollar does the most good.",
+    "yearsExperience": 11,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Asset Management",
+      "GIS",
+      "Pavement Preservation",
+      "Drainage Maintenance"
+    ],
+    "projects": [
+      "prj-02",
+      "prj-15",
+      "prj-18",
+      "prj-20",
+      "prj-22"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "University of Colorado Denver",
+        "period": "2011 – 2015",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2014",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2015 – 2018",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2018 – 2022",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2022 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Maintenance Asset Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Culvert & Drainage Inventory (GIS)",
+    "favoritePart": "Turning a flood of asset data into a clear plan of action.",
+    "advice": "Data tells you where; the field tells you why — use both.",
+    "funFact": "Runs mountain ultramarathons.",
+    "image": "https://randomuser.me/api/portraits/women/26.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-23",
+    "name": "Carlos Jimenez",
+    "title": "Avalanche Mitigation Specialist",
+    "division": "maintenance",
+    "bio": "Carlos forecasts and mitigates avalanche hazards above Colorado’s mountain passes.",
+    "yearsExperience": 8,
+    "location": "Durango",
+    "pronouns": "he/him",
+    "skills": [
+      "Avalanche Mitigation",
+      "Snow & Ice Operations",
+      "GIS",
+      "Work Zone Safety"
+    ],
+    "projects": [
+      "prj-02",
+      "prj-15",
+      "prj-19",
+      "prj-20",
+      "prj-22"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "Colorado Mesa University",
+        "period": "2014 – 2018",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2017",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2018 – 2021",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2021 – 2025",
+        "type": "role"
+      },
+      {
+        "title": "Avalanche Mitigation Specialist",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Avalanche Forecasting & Mitigation (CAIC partnership)",
+    "favoritePart": "Reading the snowpack and making the call that keeps a pass safe.",
+    "advice": "In the mountains, humility is a survival skill.",
+    "funFact": "Certified avalanche forecaster and splitboarder.",
+    "image": "https://randomuser.me/api/portraits/men/55.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-24",
+    "name": "Tasha Williams",
+    "title": "Maintenance Technician II",
+    "division": "maintenance",
+    "bio": "Tasha keeps the eastern plains highways plowed, patched, and safe.",
+    "yearsExperience": 5,
+    "location": "Sterling",
+    "pronouns": "she/her",
+    "skills": [
+      "Snow & Ice Operations",
+      "Fleet Management",
+      "Drainage Maintenance",
+      "Work Zone Safety"
+    ],
+    "projects": [
+      "prj-02",
+      "prj-08",
+      "prj-19",
+      "prj-22"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "University of Northern Colorado",
+        "period": "2017 – 2021",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2020",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2021 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2028",
+        "type": "role"
+      },
+      {
+        "title": "Maintenance Technician II",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Fleet & Maintenance Facility Modernization",
+    "favoritePart": "The variety — no two days on the road are the same.",
+    "advice": "Master your equipment; it is your most important teammate.",
+    "funFact": "Restores vintage pickup trucks.",
+    "image": "https://randomuser.me/api/portraits/women/28.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-25",
+    "name": "Brian Schultz",
+    "title": "Traffic & Safety Program Manager",
+    "division": "traffic-safety",
+    "bio": "Brian leads data-driven safety programs aimed at reducing serious crashes statewide.",
+    "yearsExperience": 15,
+    "location": "Denver",
+    "pronouns": "he/him",
+    "skills": [
+      "Safety Analysis",
+      "Crash Data Analysis",
+      "ITS",
+      "Traffic Signal Design"
+    ],
+    "projects": [
+      "prj-06",
+      "prj-09",
+      "prj-17"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Transportation Engineering",
+        "subtitle": "University of Colorado Boulder",
+        "period": "2007 – 2011",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2010",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2011 – 2014",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2014 – 2018",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2018 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Traffic & Safety Program Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Rural Highway Safety & Rumble Strip Deployment",
+    "favoritePart": "Knowing our work measurably saves lives.",
+    "advice": "Let the crash data, not assumptions, point you to the fix.",
+    "funFact": "Volunteer firefighter.",
+    "image": "https://randomuser.me/api/portraits/men/36.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": false,
+    "remote": true
+  },
+  {
+    "id": "emp-26",
+    "name": "Jasmine Carter",
+    "title": "Traffic Operations Engineer",
+    "division": "traffic-safety",
+    "bio": "Jasmine designs and retimes traffic signals to keep corridors flowing.",
+    "yearsExperience": 9,
+    "location": "Aurora",
+    "pronouns": "she/her",
+    "skills": [
+      "Synchro/SimTraffic",
+      "VISSIM",
+      "Traffic Signal Design",
+      "HCS"
+    ],
+    "projects": [
+      "prj-06",
+      "prj-17"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Transportation Engineering",
+        "subtitle": "University of Colorado Denver",
+        "period": "2013 – 2017",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2016",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2017 – 2020",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2020 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Traffic Operations Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Traffic Signal Retiming Program",
+    "favoritePart": "Watching a corridor I retimed clear up at rush hour.",
+    "advice": "Simulate before you build — models catch expensive mistakes.",
+    "funFact": "Competitive escape-room enthusiast.",
+    "image": "https://randomuser.me/api/portraits/women/23.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-27",
+    "name": "Derek Nguyen",
+    "title": "ITS Engineer",
+    "division": "traffic-safety",
+    "bio": "Derek deploys intelligent transportation systems on Colorado’s busiest corridors.",
+    "yearsExperience": 7,
+    "location": "Fort Collins",
+    "pronouns": "he/him",
+    "skills": [
+      "ITS",
+      "Crash Data Analysis",
+      "Traffic Signal Design",
+      "Safety Analysis"
+    ],
+    "projects": [
+      "prj-17"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Transportation Engineering",
+        "subtitle": "Colorado State University",
+        "period": "2015 – 2019",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2018",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2022",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2022 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "ITS Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "I-70 Mountain Corridor Variable Speed Limits",
+    "favoritePart": "Bringing new technology to roads built decades ago.",
+    "advice": "Stay curious about tech — this field reinvents itself constantly.",
+    "funFact": "Builds home-automation gadgets for fun.",
+    "image": "https://randomuser.me/api/portraits/men/56.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-28",
+    "name": "Olivia Park",
+    "title": "Safety Analyst I",
+    "division": "traffic-safety",
+    "bio": "Olivia analyzes crash patterns to prioritize the state’s next safety improvements.",
+    "yearsExperience": 3,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Crash Data Analysis",
+      "Safety Analysis",
+      "ITS",
+      "Signing & Striping"
+    ],
+    "projects": [
+      "prj-17"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Transportation Engineering",
+        "subtitle": "University of Denver",
+        "period": "2019 – 2023",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2022",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Safety Analyst I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Traffic Signal Retiming Program",
+    "favoritePart": "Finding the pattern that explains a dangerous intersection.",
+    "advice": "Statistics is a superpower — invest in it.",
+    "funFact": "Plays on a competitive trivia team.",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "mentor": true,
+    "coffeeChat": false,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": true
+  },
+  {
+    "id": "emp-29",
+    "name": "Alan Pierce",
+    "title": "Applied Research Manager",
+    "division": "applied-research",
+    "bio": "Alan runs CDOT’s research program, piloting the innovations that become tomorrow’s standards.",
+    "yearsExperience": 17,
+    "location": "Lakewood",
+    "pronouns": "he/him",
+    "skills": [
+      "Research Design",
+      "Statistics",
+      "Machine Learning",
+      "Pavement Modeling"
+    ],
+    "projects": [
+      "prj-09",
+      "prj-27"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "University of Colorado Boulder",
+        "period": "2005 – 2009",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2008",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2009 – 2012",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2012 – 2016",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2016 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Applied Research Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Connected & Automated Vehicle Pilot (RoadX)",
+    "favoritePart": "Testing bold ideas before anyone else gets to.",
+    "advice": "Be rigorous and brave — good research needs both.",
+    "funFact": "Holds two patents in sensor technology.",
+    "image": "https://randomuser.me/api/portraits/men/39.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-30",
+    "name": "Maya Patel",
+    "title": "Data Scientist",
+    "division": "applied-research",
+    "bio": "Maya builds the models and dashboards that turn CDOT’s data into decisions.",
+    "yearsExperience": 8,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "Power BI"
+    ],
+    "projects": [
+      "prj-09",
+      "prj-18",
+      "prj-27"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "Colorado School of Mines",
+        "period": "2014 – 2018",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2017",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2018 – 2021",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2021 – 2025",
+        "type": "role"
+      },
+      {
+        "title": "Data Scientist",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Traffic Signal Retiming Program",
+    "favoritePart": "The first time a model predicts something real and gets it right.",
+    "advice": "Learn to tell stories with data — models mean nothing if no one acts on them.",
+    "funFact": "Competes in data-science hackathons.",
+    "image": "https://randomuser.me/api/portraits/women/11.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-31",
+    "name": "Jordan Mitchell",
+    "title": "Research Engineer",
+    "division": "applied-research",
+    "bio": "Jordan investigates new pavement materials and construction methods in the field and lab.",
+    "yearsExperience": 6,
+    "location": "Fort Collins",
+    "pronouns": "they/them",
+    "skills": [
+      "Research Design",
+      "Pavement Modeling",
+      "Statistics",
+      "Python"
+    ],
+    "projects": [
+      "prj-09",
+      "prj-18",
+      "prj-23",
+      "prj-27"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "Colorado State University",
+        "period": "2016 – 2020",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2019",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2020 – 2023",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2027",
+        "type": "role"
+      },
+      {
+        "title": "Research Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Pavement Management & Recycled Materials Study",
+    "favoritePart": "Bridging the gap between a lab result and a real road.",
+    "advice": "Question the standard — every spec was once an experiment.",
+    "funFact": "Home-roasts coffee and logs every batch as data.",
+    "image": "https://randomuser.me/api/portraits/men/61.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": true
+  },
+  {
+    "id": "emp-32",
+    "name": "Emily Zhao",
+    "title": "Research Analyst I",
+    "division": "applied-research",
+    "bio": "Emily supports research projects with data analysis, visualization, and literature review.",
+    "yearsExperience": 2,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "R",
+      "Power BI"
+    ],
+    "projects": [
+      "prj-09",
+      "prj-18",
+      "prj-20",
+      "prj-23"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering",
+        "subtitle": "University of Colorado Denver",
+        "period": "2020 – 2024",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2023",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2027",
+        "type": "role"
+      },
+      {
+        "title": "Research Analyst I",
+        "subtitle": "Colorado DOT",
+        "period": "2025 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Connected & Automated Vehicle Pilot (RoadX)",
+    "favoritePart": "Getting to learn a little about every part of CDOT.",
+    "advice": "Build a portfolio of small projects — proof beats promises.",
+    "funFact": "Makes generative art with code.",
+    "image": "https://randomuser.me/api/portraits/women/31.jpg",
+    "mentor": false,
+    "coffeeChat": true,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": false
+  },
+  {
+    "id": "emp-33",
+    "name": "Greg Halvorsen",
+    "title": "Geotechnical Program Manager",
+    "division": "materials",
+    "bio": "Greg leads the geotechnical team tackling Colorado’s landslides, rockfall, and foundations.",
+    "yearsExperience": 16,
+    "location": "Golden",
+    "pronouns": "he/him",
+    "skills": [
+      "Geotechnical Engineering",
+      "Rockfall Mitigation",
+      "Soils & Foundations",
+      "QA/QC"
+    ],
+    "projects": [
+      "prj-02",
+      "prj-11",
+      "prj-13",
+      "prj-19",
+      "prj-21",
+      "prj-26",
+      "prj-29"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Geotechnical)",
+        "subtitle": "Colorado School of Mines",
+        "period": "2006 – 2010",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2009",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2010 – 2013",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2013 – 2017",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2017 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Geotechnical Program Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Wolf Creek Pass Geohazard & Avalanche Mitigation",
+    "favoritePart": "Outsmarting a mountain that does not want a road on it.",
+    "advice": "Get your boots muddy — geotech is learned in the field.",
+    "funFact": "Amateur geologist who hunts for fossils.",
+    "image": "https://randomuser.me/api/portraits/men/48.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-34",
+    "name": "Diana Flores",
+    "title": "Pavement Materials Engineer",
+    "division": "materials",
+    "bio": "Diana designs pavements and tests the materials that make Colorado’s roads last.",
+    "yearsExperience": 10,
+    "location": "Pueblo",
+    "pronouns": "she/her",
+    "skills": [
+      "Pavement Design",
+      "Materials Testing",
+      "LIMS",
+      "QA/QC"
+    ],
+    "projects": [
+      "prj-10",
+      "prj-11",
+      "prj-13",
+      "prj-29"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Geotechnical)",
+        "subtitle": "Colorado State University Pueblo",
+        "period": "2012 – 2016",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2015",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2016 – 2019",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2023",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Pavement Materials Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Pavement Management & Recycled Materials Study",
+    "favoritePart": "Knowing the mix designs I approve will ride smooth for decades.",
+    "advice": "Sweat the details — materials fail at the margins.",
+    "funFact": "Bakes competition-level sourdough.",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-35",
+    "name": "Sam Whitehorse",
+    "title": "Geotechnical Engineer",
+    "division": "materials",
+    "bio": "Sam investigates soils and slopes for bridges, walls, and mountain corridors.",
+    "yearsExperience": 7,
+    "location": "Durango",
+    "pronouns": "he/him",
+    "skills": [
+      "Soils & Foundations",
+      "Rockfall Mitigation",
+      "gINT",
+      "Geotechnical Engineering"
+    ],
+    "projects": [
+      "prj-10",
+      "prj-13",
+      "prj-29"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Geotechnical)",
+        "subtitle": "Colorado Mesa University",
+        "period": "2015 – 2019",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2018",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2022",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2022 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Geotechnical Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "US 550/US 160 Connection (Durango)",
+    "favoritePart": "Drilling into a slope and finally understanding what is going on underground.",
+    "advice": "Learn to log a boring well — it is the foundation of everything geotech.",
+    "funFact": "Volunteers on trail-building crews.",
+    "image": "https://randomuser.me/api/portraits/men/57.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-36",
+    "name": "Beth Coleman",
+    "title": "Materials Lab Technician II",
+    "division": "materials",
+    "bio": "Beth runs the lab tests that decide whether materials make it onto Colorado’s roads.",
+    "yearsExperience": 5,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Materials Testing",
+      "LIMS",
+      "QA/QC",
+      "Pavement Design"
+    ],
+    "projects": [
+      "prj-10",
+      "prj-29"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Civil Engineering (Geotechnical)",
+        "subtitle": "Metropolitan State University of Denver",
+        "period": "2017 – 2021",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2020",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2021 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – 2028",
+        "type": "role"
+      },
+      {
+        "title": "Materials Lab Technician II",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "US 50 Corridor Resurfacing & Safety (Pueblo)",
+    "favoritePart": "The precision — good testing is part science, part craft.",
+    "advice": "Respect the procedure; consistency is what makes data trustworthy.",
+    "funFact": "Pottery hobbyist (also a kind of materials testing).",
+    "image": "https://randomuser.me/api/portraits/women/47.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-37",
+    "name": "Joan Reyes",
+    "title": "Aeronautics Division Manager",
+    "division": "aviation",
+    "bio": "Joan leads Colorado’s aeronautics division, supporting the state’s 70+ public-use airports.",
+    "yearsExperience": 19,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Airport Planning",
+      "Grant Administration (FAA)",
+      "Aviation Safety",
+      "Aviation System Planning"
+    ],
+    "projects": [
+      "prj-26"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Aviation & Civil Engineering",
+        "subtitle": "University of Denver",
+        "period": "2003 – 2007",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2006",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2007 – 2010",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2010 – 2014",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2014 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Aeronautics Division Manager",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Aviation System Plan Update",
+    "favoritePart": "Helping small mountain communities stay connected by air.",
+    "advice": "See the whole system — aviation is a network, not a list of airports.",
+    "funFact": "Licensed private pilot.",
+    "image": "https://randomuser.me/api/portraits/women/18.jpg",
+    "mentor": true,
+    "coffeeChat": false,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": true,
+    "fieldWork": true,
+    "remote": true
+  },
+  {
+    "id": "emp-38",
+    "name": "Patrick Mulhern",
+    "title": "Airport Engineer",
+    "division": "aviation",
+    "bio": "Patrick designs runway, taxiway, and drainage improvements for airports across the Western Slope.",
+    "yearsExperience": 12,
+    "location": "Grand Junction",
+    "pronouns": "he/him",
+    "skills": [
+      "Pavement Management",
+      "Airport Planning",
+      "Drainage",
+      "CAD"
+    ],
+    "projects": [
+      "prj-26"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Aviation & Civil Engineering",
+        "subtitle": "Colorado Mesa University",
+        "period": "2010 – 2014",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2013",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2014 – 2017",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2017 – 2021",
+        "type": "role"
+      },
+      {
+        "title": "Project Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2021 – 2024",
+        "type": "role"
+      },
+      {
+        "title": "Airport Engineer",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Colorado Airport Pavement & Drainage Program",
+    "favoritePart": "Designing pavement that handles both jets and harsh mountain weather.",
+    "advice": "Learn the FAA standards deeply — they govern everything you design.",
+    "funFact": "Restores and flies vintage gliders.",
+    "image": "https://randomuser.me/api/portraits/men/58.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-39",
+    "name": "Wendy Cho",
+    "title": "Aviation Planner",
+    "division": "aviation",
+    "bio": "Wendy develops airport layout plans and statewide aviation studies.",
+    "yearsExperience": 7,
+    "location": "Colorado Springs",
+    "pronouns": "she/her",
+    "skills": [
+      "Airport Planning",
+      "GIS",
+      "Grant Administration (FAA)",
+      "Aviation System Planning"
+    ],
+    "projects": [
+      "prj-26",
+      "prj-27"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Aviation & Civil Engineering",
+        "subtitle": "University of Denver",
+        "period": "2015 – 2019",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2018",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2019 – 2022",
+        "type": "role"
+      },
+      {
+        "title": "Engineer II",
+        "subtitle": "Colorado DOT",
+        "period": "2022 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Aviation Planner",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Statewide Aviation System Plan Update",
+    "favoritePart": "Mapping out how an airport will grow over the next 20 years.",
+    "advice": "Relationships matter — aviation is a small, connected world.",
+    "funFact": "Plane-spotter with a photo log of 200+ aircraft.",
+    "image": "https://randomuser.me/api/portraits/women/22.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": false
+  },
+  {
+    "id": "emp-40",
+    "name": "Tyler Brooks",
+    "title": "Aviation Engineer I",
+    "division": "aviation",
+    "bio": "Tyler supports airport pavement design and FAA grant projects statewide.",
+    "yearsExperience": 3,
+    "location": "Denver",
+    "pronouns": "he/him",
+    "skills": [
+      "CAD",
+      "Pavement Management",
+      "Drainage",
+      "Airport Planning"
+    ],
+    "projects": [
+      "prj-26",
+      "prj-27",
+      "prj-28"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Aviation & Civil Engineering",
+        "subtitle": "Colorado School of Mines",
+        "period": "2019 – 2023",
+        "type": "education"
+      },
+      {
+        "title": "Engineering Intern",
+        "subtitle": "Colorado DOT",
+        "period": "Summer 2022",
+        "type": "internship"
+      },
+      {
+        "title": "Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2023 – 2026",
+        "type": "role"
+      },
+      {
+        "title": "Aviation Engineer I",
+        "subtitle": "Colorado DOT",
+        "period": "2024 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "Mountain Airport Weather & NAVAID Modernization",
+    "favoritePart": "Getting to work on something that literally helps people take flight.",
+    "advice": "Be the person who follows through — reliability gets you noticed.",
+    "funFact": "Building a flight simulator in his garage.",
+    "image": "https://randomuser.me/api/portraits/men/59.jpg",
+    "mentor": true,
+    "coffeeChat": true,
+    "jobShadow": true,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": true,
+    "remote": true
+  },
+  {
+    "id": "emp-41",
+    "name": "Sonia Irakoze",
+    "title": "Summer Engineering Intern",
+    "division": "bridge-asset-management",
+    "bio": "Sonia is a summer engineering intern who designed and built CDOT Compass for the Innovation Challenge — a prototype that helps interns discover the opportunities that already exist across the department.",
+    "yearsExperience": 0,
+    "location": "Denver",
+    "pronouns": "she/her",
+    "skills": [
+      "Product Design",
+      "Front-End Development",
+      "UX Research",
+      "Bridge Asset Management"
+    ],
+    "projects": [
+      "prj-31"
+    ],
+    "careerJourney": [
+      {
+        "title": "B.S. Mechanical Engineering",
+        "subtitle": "University of Rochester",
+        "period": "Undergraduate",
+        "type": "education"
+      },
+      {
+        "title": "Summer Engineering Intern",
+        "subtitle": "Colorado DOT · Bridge Asset Management",
+        "period": "2026",
+        "type": "internship"
+      },
+      {
+        "title": "Innovation Challenge Participant",
+        "subtitle": "Colorado DOT",
+        "period": "2026",
+        "type": "role"
+      },
+      {
+        "title": "Creator, CDOT Compass",
+        "subtitle": "Innovation Challenge prototype",
+        "period": "2026 – Present",
+        "type": "role",
+        "current": true
+      }
+    ],
+    "favoriteProject": "CDOT Compass",
+    "favoritePart": "Turning a real intern frustration into something that could actually help the next group of interns.",
+    "advice": "Be curious. Reach out to people outside your own team — you’ll be surprised how much you can learn.",
+    "funFact": "This spotlight was created inside the app it describes.",
+    "image": "https://api.dicebear.com/9.x/initials/svg?seed=Sonia%20Irakoze&backgroundColor=0057b8&fontWeight=600",
+    "mentor": false,
+    "coffeeChat": true,
+    "jobShadow": false,
+    "careerAdvice": true,
+    "leadership": false,
+    "fieldWork": false,
+    "remote": true
+  }
+]

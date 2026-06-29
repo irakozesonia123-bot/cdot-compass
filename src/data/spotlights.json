@@ -1,0 +1,56 @@
+[
+  {
+    "id": "spot-06",
+    "employeeId": "emp-41",
+    "headline": "Building CDOT Compass from an intern's perspective",
+    "story": "During my internship with CDOT’s Bridge Asset Management team, I noticed that many internship opportunities already existed across the organization, but they were often difficult to discover unless you knew where to look or who to ask. As part of the Innovation Challenge, I began designing and developing CDOT Compass — a career discovery platform that helps interns explore divisions, projects, mentors, resources, and career pathways in one place. The goal isn’t to create new programs, but to make existing opportunities easier to find, encourage cross-divisional learning, and help interns build meaningful connections earlier in their internships.",
+    "favoriteProject": "CDOT Compass — the very platform you’re using now. I built it during my internship as an Innovation Challenge prototype (not an officially adopted CDOT system).",
+    "careerJourney": "University of Rochester (Mechanical Engineering) → Summer Engineering Intern on CDOT’s Bridge Asset Management team → Innovation Challenge participant → creator of the CDOT Compass prototype.",
+    "quote": "The best opportunities at CDOT already exist — we just need to make them easier to discover."
+  },
+  {
+    "id": "spot-01",
+    "employeeId": "emp-03",
+    "headline": "From rope access to running the inspection program",
+    "story": "Marcus Bell began as an intern and grew into a bridge inspection lead in CDOT’s Bridge Asset Management division. Marcus leads the crews that climb, rappel, and rate bridges in every corner of the state. Over 16 years, Marcus has become a go-to mentor for interns curious about bridge inspection and load rating.",
+    "favoriteProject": "Marcus points to \"Colorado Bridge Inspection & Load Rating Initiative\" as a career highlight — a project where working outdoors and solving puzzles that keep people safe.",
+    "careerJourney": "From a degree at Colorado Mesa University to a CDOT internship and a steady climb to Bridge Inspection Lead, Marcus’s path shows what’s possible when curiosity meets persistence.",
+    "quote": "You learn more under a bridge than in any classroom."
+  },
+  {
+    "id": "spot-02",
+    "employeeId": "emp-05",
+    "headline": "The engineer who reads rivers",
+    "story": "Elena Vargas began as an intern and grew into a hydraulics program manager in CDOT’s Hydraulics division. Elena leads CDOT’s hydraulics program, protecting roads and bridges from Colorado’s flash floods. Over 15 years, Elena has become a go-to mentor for interns curious about hec-ras and floodplain mapping.",
+    "favoriteProject": "Elena points to \"Statewide Culvert & Drainage Inventory (GIS)\" as a career highlight — a project where designing infrastructure that stands up to nature at its most extreme.",
+    "careerJourney": "From a degree at Colorado State University Pueblo to a CDOT internship and a steady climb to Hydraulics Program Manager, Elena’s path shows what’s possible when curiosity meets persistence.",
+    "quote": "Respect water — it always finds the weakness in your design."
+  },
+  {
+    "id": "spot-03",
+    "employeeId": "emp-10",
+    "headline": "Keeping billion-dollar projects on track",
+    "story": "Sofia Mendez began as an intern and grew into a construction project engineer in CDOT’s Construction division. Sofia manages budgets, schedules, and quality on Front Range construction projects. Over 9 years, Sofia has become a go-to mentor for interns curious about project controls and cost estimating.",
+    "favoriteProject": "Sofia points to \"Central 70 Project (Denver)\" as a career highlight — a project where solving the daily puzzle of keeping a project on time and on budget.",
+    "careerJourney": "From a degree at University of Colorado Denver to a CDOT internship and a steady climb to Construction Project Engineer, Sofia’s path shows what’s possible when curiosity meets persistence.",
+    "quote": "Document everything — your notes are your best memory and defense."
+  },
+  {
+    "id": "spot-04",
+    "employeeId": "emp-17",
+    "headline": "Building roads without leaving nature behind",
+    "story": "Sarah Chen began as an intern and grew into a environmental program manager in CDOT’s Environmental division. Sarah guides projects through environmental review, balancing infrastructure and ecology. Over 14 years, Sarah has become a go-to mentor for interns curious about nepa and permitting.",
+    "favoriteProject": "Sarah points to \"Wildlife Connectivity & Fencing Program (US 285)\" as a career highlight — a project where finding solutions that move projects forward and protect Colorado’s landscapes.",
+    "careerJourney": "From a degree at Colorado State University to a CDOT internship and a steady climb to Environmental Program Manager, Sarah’s path shows what’s possible when curiosity meets persistence.",
+    "quote": "Environmental issues are cheapest to solve at the very start."
+  },
+  {
+    "id": "spot-05",
+    "employeeId": "emp-30",
+    "headline": "Turning CDOT’s data into decisions",
+    "story": "Maya Patel began as an intern and grew into a data scientist in CDOT’s Applied Research & Innovation division. Maya builds the models and dashboards that turn CDOT’s data into decisions. Over 8 years, Maya has become a go-to mentor for interns curious about python and machine learning.",
+    "favoriteProject": "Maya points to \"Statewide Traffic Signal Retiming Program\" as a career highlight — a project where the first time a model predicts something real and gets it right.",
+    "careerJourney": "From a degree at Colorado School of Mines to a CDOT internship and a steady climb to Data Scientist, Maya’s path shows what’s possible when curiosity meets persistence.",
+    "quote": "Models mean nothing if no one acts on them."
+  }
+]

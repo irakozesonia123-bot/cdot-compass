@@ -1,0 +1,122 @@
+[
+  {
+    "id": "evt-01",
+    "title": "Intern Welcome & Networking Mixer",
+    "date": "2026-07-09",
+    "time": "4:00 – 6:00 PM",
+    "location": "HQ Atrium, Denver",
+    "description": "Kick off the summer by meeting fellow interns, mentors, and division leaders.",
+    "category": "Networking",
+    "host": "Talent Development"
+  },
+  {
+    "id": "evt-02",
+    "title": "Lunch & Learn: Inside the Floyd Hill Project",
+    "date": "2026-07-16",
+    "time": "12:00 – 1:00 PM",
+    "location": "Hybrid · Room 3B",
+    "description": "Project engineers walk through one of CDOT’s most complex active builds.",
+    "category": "Tech Talk",
+    "host": "Construction Division"
+  },
+  {
+    "id": "evt-03",
+    "title": "Coffee Chat Speed Networking",
+    "date": "2026-07-23",
+    "time": "9:00 – 10:30 AM",
+    "location": "HQ Cafe, Denver",
+    "description": "Rotate through quick, friendly chats with engineers from every division.",
+    "category": "Networking",
+    "host": "Young Professionals Network"
+  },
+  {
+    "id": "evt-04",
+    "title": "Workshop: Resume & LinkedIn for Engineers",
+    "date": "2026-07-30",
+    "time": "1:00 – 3:00 PM",
+    "location": "Hybrid · Training Lab",
+    "description": "Hands-on help making your resume and profile stand out for technical roles.",
+    "category": "Workshop",
+    "host": "HR"
+  },
+  {
+    "id": "evt-05",
+    "title": "Tech Talk: HEC-RAS & Bridge Scour",
+    "date": "2026-08-06",
+    "time": "12:00 – 1:00 PM",
+    "location": "Virtual",
+    "description": "A practical intro to river modeling and how scour threatens bridges.",
+    "category": "Tech Talk",
+    "host": "Hydraulics Division"
+  },
+  {
+    "id": "evt-06",
+    "title": "Field Tour: I-25 South Gap Construction",
+    "date": "2026-08-13",
+    "time": "8:00 AM – 12:00 PM",
+    "location": "Meet at Monument P&R",
+    "description": "See a major interstate project up close with the field engineering team.",
+    "category": "Career",
+    "host": "Construction Division"
+  },
+  {
+    "id": "evt-07",
+    "title": "WTS Panel: Women Leaders in Transportation",
+    "date": "2026-08-20",
+    "time": "11:30 AM – 1:00 PM",
+    "location": "HQ Auditorium, Denver",
+    "description": "Senior women leaders share career journeys, lessons, and advice.",
+    "category": "Networking",
+    "host": "WTS – Women in Transportation"
+  },
+  {
+    "id": "evt-08",
+    "title": "Info Session: PE Licensure Pathway",
+    "date": "2026-08-27",
+    "time": "12:00 – 1:00 PM",
+    "location": "Virtual",
+    "description": "Everything you need to know about the path to your PE license at CDOT.",
+    "category": "Info Session",
+    "host": "Professional Development"
+  },
+  {
+    "id": "evt-09",
+    "title": "Hackathon: Traffic Data Challenge",
+    "date": "2026-09-10",
+    "time": "9:00 AM – 5:00 PM",
+    "location": "Innovation Lab, Denver",
+    "description": "Team up to find insights in real traffic and safety datasets.",
+    "category": "Workshop",
+    "host": "Applied Research & Innovation"
+  },
+  {
+    "id": "evt-10",
+    "title": "Tech Talk: Connected & Automated Vehicles",
+    "date": "2026-09-17",
+    "time": "12:00 – 1:00 PM",
+    "location": "Hybrid · Room 2A",
+    "description": "A look at CDOT’s connected-vehicle pilots and what comes next.",
+    "category": "Tech Talk",
+    "host": "Applied Research & Innovation"
+  },
+  {
+    "id": "evt-11",
+    "title": "Career Fair: Explore CDOT Divisions",
+    "date": "2026-09-24",
+    "time": "10:00 AM – 2:00 PM",
+    "location": "HQ Atrium, Denver",
+    "description": "Visit booths from every division and discover where you fit.",
+    "category": "Career",
+    "host": "Talent Development"
+  },
+  {
+    "id": "evt-12",
+    "title": "Intern Capstone Showcase",
+    "date": "2026-10-08",
+    "time": "3:00 – 5:00 PM",
+    "location": "HQ Auditorium, Denver",
+    "description": "Interns present their summer projects to leadership and peers.",
+    "category": "Social",
+    "host": "Talent Development"
+  }
+]

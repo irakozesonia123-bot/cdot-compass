@@ -1,0 +1,162 @@
+[
+  {
+    "id": "res-01",
+    "title": "Mentorship Matching Program",
+    "category": "Professional Development",
+    "description": "Get paired with an experienced CDOT mentor who shares your interests and career goals.",
+    "link": "#",
+    "icon": "Users"
+  },
+  {
+    "id": "res-02",
+    "title": "CDOT Toastmasters",
+    "category": "Professional Development",
+    "description": "Build public speaking and leadership confidence in a supportive peer setting.",
+    "link": "#",
+    "icon": "MessageSquare"
+  },
+  {
+    "id": "res-03",
+    "title": "Colorado LTAP Training",
+    "category": "Training",
+    "description": "Local Technical Assistance Program courses on roads, safety, and workforce skills.",
+    "link": "#",
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "res-04",
+    "title": "NHI Technical Courses",
+    "category": "Training",
+    "description": "National Highway Institute training across every transportation discipline.",
+    "link": "#",
+    "icon": "BookOpen"
+  },
+  {
+    "id": "res-05",
+    "title": "Work Zone Safety Certification",
+    "category": "Training",
+    "description": "Required certification for working safely in and around active work zones.",
+    "link": "#",
+    "icon": "ShieldCheck"
+  },
+  {
+    "id": "res-06",
+    "title": "AASHTOWare Project Training",
+    "category": "Training",
+    "description": "Hands-on training for CDOT’s core construction and materials management software.",
+    "link": "#",
+    "icon": "Laptop"
+  },
+  {
+    "id": "res-07",
+    "title": "On-the-Job Training (OJT)",
+    "category": "Training",
+    "description": "Structured, hands-on learning embedded directly in real project work.",
+    "link": "#",
+    "icon": "Wrench"
+  },
+  {
+    "id": "res-08",
+    "title": "WTS – Women in Transportation",
+    "category": "Employee Resource Groups",
+    "description": "A community advancing women in the transportation industry through networking and mentorship.",
+    "link": "#",
+    "icon": "Users"
+  },
+  {
+    "id": "res-09",
+    "title": "Veterans Employee Resource Group",
+    "category": "Employee Resource Groups",
+    "description": "Connection and support for veterans and military families across CDOT.",
+    "link": "#",
+    "icon": "Award"
+  },
+  {
+    "id": "res-10",
+    "title": "Young Professionals Network",
+    "category": "Employee Resource Groups",
+    "description": "Events and mentorship connecting early-career employees statewide.",
+    "link": "#",
+    "icon": "Sparkles"
+  },
+  {
+    "id": "res-11",
+    "title": "Latinos in Transportation",
+    "category": "Employee Resource Groups",
+    "description": "A network celebrating and supporting Latino professionals at CDOT.",
+    "link": "#",
+    "icon": "Users"
+  },
+  {
+    "id": "res-12",
+    "title": "Individual Development Plan (IDP)",
+    "category": "Career Planning",
+    "description": "A guided template to set goals and map your growth with your supervisor.",
+    "link": "#",
+    "icon": "Target"
+  },
+  {
+    "id": "res-13",
+    "title": "Career Pathways Guide",
+    "category": "Career Planning",
+    "description": "Explore how roles connect and what it takes to move between them at CDOT.",
+    "link": "#",
+    "icon": "Map"
+  },
+  {
+    "id": "res-14",
+    "title": "Tuition Reimbursement Program",
+    "category": "Career Planning",
+    "description": "Financial support for continuing education and advanced degrees.",
+    "link": "#",
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "res-15",
+    "title": "PE Licensure Support",
+    "category": "Career Planning",
+    "description": "Resources, study groups, and exam support on the path to your PE license.",
+    "link": "#",
+    "icon": "BadgeCheck"
+  },
+  {
+    "id": "res-16",
+    "title": "Emerging Leaders Program",
+    "category": "Leadership",
+    "description": "A cohort program developing the next generation of CDOT leaders.",
+    "link": "#",
+    "icon": "TrendingUp"
+  },
+  {
+    "id": "res-17",
+    "title": "Supervisor Academy",
+    "category": "Leadership",
+    "description": "Foundational training for new and aspiring people leaders.",
+    "link": "#",
+    "icon": "Users"
+  },
+  {
+    "id": "res-18",
+    "title": "LinkedIn Learning Access",
+    "category": "Learning",
+    "description": "Free access to thousands of professional and technical online courses.",
+    "link": "#",
+    "icon": "PlayCircle"
+  },
+  {
+    "id": "res-19",
+    "title": "CDOT Technical Library",
+    "category": "Learning",
+    "description": "Standards, specs, research reports, and design guidance in one place.",
+    "link": "#",
+    "icon": "Library"
+  },
+  {
+    "id": "res-20",
+    "title": "CDOT Organizational Chart",
+    "category": "Organization",
+    "description": "See how divisions, regions, and teams fit together across the department.",
+    "link": "#",
+    "icon": "Network"
+  }
+]

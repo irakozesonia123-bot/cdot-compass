@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ * CDOT Compass theme variables.
+ *
+ * Values are stored as HSL channels (no hsl() wrapper) so Tailwind can
+ * compose them with opacity modifiers. The brand palette from the UX spec
+ * maps onto shadcn/ui's semantic token names below.
+ *
+ *   CDOT Blue       #0057B8 -> primary
+ *   Colorado Green  #3A7D44 -> secondary
+ *   Sky Blue        #4DA3FF -> accent
+ *   Background      #F7F9FB -> background
+ *   Card White      #FFFFFF -> card / popover
+ *   Primary Text    #1B1F24 -> foreground
+ *   Secondary Text  #5B6573 -> muted-foreground
+ *   Borders         #E5E9EF -> border / input
+ *   Success         #22C55E -> success
+ *   Warning         #F59E0B -> warning
+ *   Error           #EF4444 -> destructive
+ */
+@layer base {
+  :root {
+    /* Application background: very light slate (#F8FAFC) */
+    --background: 210 40% 98%;
+    --foreground: 213 16% 12%;
+
+    /* Major headings: deep CDOT navy (#102A43) instead of pure black */
+    --heading: 209 62% 17%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 213 16% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 213 16% 12%;
+
+    --primary: 211 100% 36%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 131 37% 36%;
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 212 100% 65%;
+    --accent-foreground: 213 16% 12%;
+
+    --muted: 210 24% 96%;
+    --muted-foreground: 214 12% 40%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 142 71% 45%;
+    --warning: 38 92% 50%;
+
+    /* CDOT / Colorado accent identity — matched to the CDOT roundel logo */
+    --cdot-orange: 30 100% 45%; /* CDOT orange #E57200 */
+    --cdot-yellow: 44 100% 59%;
+    --cdot-navy: 216 60% 18%; /* CDOT navy #13294B */
+
+    /* Intentional per-page icon accent palette (chosen for contrast).
+       Teal / gold (and orange above) carry slightly higher saturation for
+       a richer, more confident accent while preserving contrast. */
+    --cdot-teal: 175 88% 30%;
+    --cdot-indigo: 243 75% 59%;
+    --cdot-purple: 271 81% 56%;
+    --cdot-gold: 41 100% 38%;
+
+    --border: 213 27% 92%;
+    --input: 213 27% 92%;
+    --ring: 211 100% 36%;
+
+    /* Base radius drives shadcn lg/md/sm; brand radii live in tailwind.config */
+    --radius: 0.875rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-feature-settings: 'cv11', 'ss01';
+    font-variation-settings: 'opsz' 32;
+  }
+
+  /* Visible, accessible focus states across the app */
+  :focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
+
+  /* Offset anchor-scrolling for the sticky top bar */
+  section[id] {
+    scroll-margin-top: 5.5rem;
+  }
+}

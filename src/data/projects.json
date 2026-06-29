@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "prj-01",
+    "title": "Floyd Hill to Veterans Memorial Tunnels Improvements",
+    "summary": "A multi-year I-70 mountain corridor rebuild adding capacity, new bridges, and safety upgrades.",
+    "description": "A multi-year I-70 mountain corridor rebuild adding capacity, new bridges, and safety upgrades. This effort is led by the Construction division and brings together Construction, Bridge Asset Management, Hydraulics, Environmental, Traffic & Safety to deliver it. Work spans interstate, mountain corridor, bridges and relies on tools such as AASHTOWare Project, MicroStation, HEC-RAS.",
+    "leadDivision": "construction",
+    "divisions": [
+      "construction",
+      "bridge-asset-management",
+      "hydraulics",
+      "environmental",
+      "traffic-safety"
+    ],
+    "engineers": [
+      "emp-09",
+      "emp-10",
+      "emp-11"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "Interstate",
+      "Mountain Corridor",
+      "Bridges"
+    ],
+    "software": [
+      "AASHTOWare Project",
+      "MicroStation",
+      "HEC-RAS",
+      "ProjectWise"
+    ],
+    "relatedDepartments": [
+      "materials",
+      "planning"
+    ],
+    "duration": "2022 – 2028",
+    "location": "I-70, Clear Creek County",
+    "startYear": 2022,
+    "image": "1503708928676-1cb796a0891e.jpg"
+  },
+  {
+    "id": "prj-02",
+    "title": "I-70 Glenwood Canyon Resiliency & Rockfall Mitigation",
+    "summary": "Hardening one of the most scenic and vulnerable interstates against rockfall, fire, and flood.",
+    "description": "Hardening one of the most scenic and vulnerable interstates against rockfall, fire, and flood. This effort is led by the Maintenance division and brings together Maintenance, Materials & Geotechnical, Hydraulics, Environmental to deliver it. Work spans resiliency, rockfall, drainage and relies on tools such as AssetWise, gINT, HEC-RAS.",
+    "leadDivision": "maintenance",
+    "divisions": [
+      "maintenance",
+      "materials",
+      "hydraulics",
+      "environmental"
+    ],
+    "engineers": [
+      "emp-22",
+      "emp-23",
+      "emp-24",
+      "emp-33"
+    ],
+    "status": "Active",
+    "phase": "Maintenance",
+    "tags": [
+      "Resiliency",
+      "Rockfall",
+      "Drainage"
+    ],
+    "software": [
+      "AssetWise",
+      "gINT",
+      "HEC-RAS",
+      "ArcGIS"
+    ],
+    "relatedDepartments": [
+      "construction"
+    ],
+    "duration": "2021 – Ongoing",
+    "location": "I-70, Glenwood Canyon",
+    "startYear": 2021,
+    "image": "1612770132420-297b1e77f2b2.jpg"
+  },
+  {
+    "id": "prj-03",
+    "title": "I-25 South Gap Widening (Monument to Castle Rock)",
+    "summary": "An 18-mile widening and express-lane project closing the gap on Colorado’s busiest interstate.",
+    "description": "An 18-mile widening and express-lane project closing the gap on Colorado’s busiest interstate. This effort is led by the Construction division and brings together Construction, Planning, Traffic & Safety, Bridge Asset Management to deliver it. Work spans interstate, widening, express lanes and relies on tools such as AASHTOWare Project, Primavera P6, Synchro.",
+    "leadDivision": "construction",
+    "divisions": [
+      "construction",
+      "planning",
+      "traffic-safety",
+      "bridge-asset-management"
+    ],
+    "engineers": [
+      "emp-11",
+      "emp-12",
+      "emp-13",
+      "emp-14",
+      "emp-15"
+    ],
+    "status": "Completed",
+    "phase": "Completed",
+    "tags": [
+      "Interstate",
+      "Widening",
+      "Express Lanes"
+    ],
+    "software": [
+      "AASHTOWare Project",
+      "Primavera P6",
+      "Synchro",
+      "MicroStation"
+    ],
+    "relatedDepartments": [
+      "materials",
+      "environmental"
+    ],
+    "duration": "2018 – 2022",
+    "location": "I-25, Douglas County",
+    "startYear": 2018,
+    "image": "1517089596392-fb9a9033e05b.jpg"
+  },
+  {
+    "id": "prj-04",
+    "title": "US 550/US 160 Connection (Durango)",
+    "summary": "A new interchange and realignment connecting two key southwest Colorado highways.",
+    "description": "A new interchange and realignment connecting two key southwest Colorado highways. This effort is led by the Construction division and brings together Construction, Bridge Asset Management, Environmental, Materials & Geotechnical to deliver it. Work spans interchange, bridges, rural and relies on tools such as AASHTOWare Project, MicroStation, gINT.",
+    "leadDivision": "construction",
+    "divisions": [
+      "construction",
+      "bridge-asset-management",
+      "environmental",
+      "materials"
+    ],
+    "engineers": [
+      "emp-12",
+      "emp-01",
+      "emp-02"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "Interchange",
+      "Bridges",
+      "Rural"
+    ],
+    "software": [
+      "AASHTOWare Project",
+      "MicroStation",
+      "gINT",
+      "ProjectWise"
+    ],
+    "relatedDepartments": [
+      "hydraulics"
+    ],
+    "duration": "2020 – 2027",
+    "location": "US 550/160, La Plata County",
+    "startYear": 2020,
+    "image": "1529792083865-d23889753466.jpg"
+  },
+  {
+    "id": "prj-05",
+    "title": "Central 70 Project (Denver)",
+    "summary": "A landmark urban interstate rebuild that lowered the highway and capped it with a park.",
+    "description": "A landmark urban interstate rebuild that lowered the highway and capped it with a park. This effort is led by the Construction division and brings together Construction, Bridge Asset Management, Environmental, Traffic & Safety to deliver it. Work spans interstate, urban, lowered highway and relies on tools such as AASHTOWare Project, Primavera P6, MicroStation.",
+    "leadDivision": "construction",
+    "divisions": [
+      "construction",
+      "bridge-asset-management",
+      "environmental",
+      "traffic-safety"
+    ],
+    "engineers": [
+      "emp-01",
+      "emp-02",
+      "emp-03",
+      "emp-04"
+    ],
+    "status": "Completed",
+    "phase": "Completed",
+    "tags": [
+      "Interstate",
+      "Urban",
+      "Lowered Highway"
+    ],
+    "software": [
+      "AASHTOWare Project",
+      "Primavera P6",
+      "MicroStation",
+      "AERMOD"
+    ],
+    "relatedDepartments": [
+      "planning",
+      "materials"
+    ],
+    "duration": "2018 – 2022",
+    "location": "I-70, Denver",
+    "startYear": 2018,
+    "image": "1583024011792-b165975b52f5.jpg"
+  },
+  {
+    "id": "prj-06",
+    "title": "North I-25 Express Lanes (Berthoud to Fort Collins)",
+    "summary": "New express lanes, bridges, and transit slip-ramps for the growing northern Front Range.",
+    "description": "New express lanes, bridges, and transit slip-ramps for the growing northern Front Range. This effort is led by the Planning division and brings together Planning, Construction, Traffic & Safety, Bridge Asset Management to deliver it. Work spans express lanes, multimodal, interstate and relies on tools such as TransCAD, AASHTOWare Project, Synchro.",
+    "leadDivision": "planning",
+    "divisions": [
+      "planning",
+      "construction",
+      "traffic-safety",
+      "bridge-asset-management"
+    ],
+    "engineers": [
+      "emp-10",
+      "emp-11",
+      "emp-12",
+      "emp-25",
+      "emp-26"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "Express Lanes",
+      "Multimodal",
+      "Interstate"
+    ],
+    "software": [
+      "TransCAD",
+      "AASHTOWare Project",
+      "Synchro",
+      "MicroStation"
+    ],
+    "relatedDepartments": [
+      "environmental"
+    ],
+    "duration": "2019 – 2026",
+    "location": "I-25, Larimer & Weld",
+    "startYear": 2019,
+    "image": "1471958680802-1345a694ba6d.jpg"
+  },
+  {
+    "id": "prj-07",
+    "title": "Vail Pass Auxiliary Lanes & Wildlife Crossings",
+    "summary": "Safety lanes and wildlife crossings on a treacherous, ecologically sensitive mountain pass.",
+    "description": "Safety lanes and wildlife crossings on a treacherous, ecologically sensitive mountain pass. This effort is led by the Environmental division and brings together Environmental, Construction, Bridge Asset Management, Planning to deliver it. Work spans wildlife crossings, safety, mountain and relies on tools such as ArcGIS, MicroStation, AERMOD.",
+    "leadDivision": "environmental",
+    "divisions": [
+      "environmental",
+      "construction",
+      "bridge-asset-management",
+      "planning"
+    ],
+    "engineers": [
+      "emp-11",
+      "emp-12",
+      "emp-01"
+    ],
+    "status": "Active",
+    "phase": "Design",
+    "tags": [
+      "Wildlife Crossings",
+      "Safety",
+      "Mountain"
+    ],
+    "software": [
+      "ArcGIS",
+      "MicroStation",
+      "AERMOD",
+      "AASHTOWare Project"
+    ],
+    "relatedDepartments": [
+      "maintenance"
+    ],
+    "duration": "2021 – 2027",
+    "location": "I-70, Vail Pass",
+    "startYear": 2021,
+    "image": "1683089884357-aaa2063966a2.jpg"
+  },
+  {
+    "id": "prj-08",
+    "title": "Wolf Creek Pass Geohazard & Avalanche Mitigation",
+    "summary": "Stabilizing slopes and reducing avalanche risk on a steep, remote mountain highway.",
+    "description": "Stabilizing slopes and reducing avalanche risk on a steep, remote mountain highway. This effort is led by the Materials & Geotechnical division and brings together Materials & Geotechnical, Maintenance, Hydraulics to deliver it. Work spans geohazard, rockfall, avalanche and relies on tools such as gINT, AssetWise, HEC-RAS.",
+    "leadDivision": "materials",
+    "divisions": [
+      "materials",
+      "maintenance",
+      "hydraulics"
+    ],
+    "engineers": [
+      "emp-24",
+      "emp-05",
+      "emp-06",
+      "emp-07"
+    ],
+    "status": "Active",
+    "phase": "Design",
+    "tags": [
+      "Geohazard",
+      "Rockfall",
+      "Avalanche"
+    ],
+    "software": [
+      "gINT",
+      "AssetWise",
+      "HEC-RAS"
+    ],
+    "relatedDepartments": [
+      "environmental"
+    ],
+    "duration": "2023 – 2027",
+    "location": "US 160, Wolf Creek Pass",
+    "startYear": 2023,
+    "image": "1517089596392-fb9a9033e05b.jpg"
+  },
+  {
+    "id": "prj-09",
+    "title": "Eisenhower–Johnson Memorial Tunnels Systems Upgrade",
+    "summary": "Modernizing ventilation, ITS, and life-safety systems in North America’s highest vehicular tunnels.",
+    "description": "Modernizing ventilation, ITS, and life-safety systems in North America’s highest vehicular tunnels. This effort is led by the Traffic & Safety division and brings together Traffic & Safety, Maintenance, Applied Research & Innovation to deliver it. Work spans tunnels, its, life safety and relies on tools such as VISSIM, AssetWise, Python.",
+    "leadDivision": "traffic-safety",
+    "divisions": [
+      "traffic-safety",
+      "maintenance",
+      "applied-research"
+    ],
+    "engineers": [
+      "emp-29",
+      "emp-30",
+      "emp-31",
+      "emp-32",
+      "emp-25"
+    ],
+    "status": "Active",
+    "phase": "Design",
+    "tags": [
+      "Tunnels",
+      "ITS",
+      "Life Safety"
+    ],
+    "software": [
+      "VISSIM",
+      "AssetWise",
+      "Python"
+    ],
+    "relatedDepartments": [
+      "construction"
+    ],
+    "duration": "2022 – 2026",
+    "location": "I-70, EJMT",
+    "startYear": 2022,
+    "image": "1486673748761-a8d18475c757.jpg"
+  },
+  {
+    "id": "prj-10",
+    "title": "Statewide Bridge Asset Management Program",
+    "summary": "A data-driven program prioritizing bridge investments across the entire state network.",
+    "description": "A data-driven program prioritizing bridge investments across the entire state network. This effort is led by the Bridge Asset Management division and brings together Bridge Asset Management, Applied Research & Innovation, Materials & Geotechnical to deliver it. Work spans asset management, data, bridges and relies on tools such as AASHTOWare BrDR, Power BI, gINT.",
+    "leadDivision": "bridge-asset-management",
+    "divisions": [
+      "bridge-asset-management",
+      "applied-research",
+      "materials"
+    ],
+    "engineers": [
+      "emp-34",
+      "emp-35",
+      "emp-36"
+    ],
+    "status": "Active",
+    "phase": "Maintenance",
+    "tags": [
+      "Asset Management",
+      "Data",
+      "Bridges"
+    ],
+    "software": [
+      "AASHTOWare BrDR",
+      "Power BI",
+      "gINT"
+    ],
+    "relatedDepartments": [
+      "maintenance"
+    ],
+    "duration": "2019 – Ongoing",
+    "location": "Statewide",
+    "startYear": 2019,
+    "image": "1536099629323-44806c1ea264.jpg"
+  },
+  {
+    "id": "prj-11",
+    "title": "Colorado Bridge Inspection & Load Rating Initiative",
+    "summary": "Systematic inspection and load rating to keep every state bridge safe and open.",
+    "description": "Systematic inspection and load rating to keep every state bridge safe and open. This effort is led by the Bridge Asset Management division and brings together Bridge Asset Management, Materials & Geotechnical to deliver it. Work spans inspection, load rating, safety and relies on tools such as AASHTOWare BrDR, MicroStation, LIMS.",
+    "leadDivision": "bridge-asset-management",
+    "divisions": [
+      "bridge-asset-management",
+      "materials"
+    ],
+    "engineers": [
+      "emp-03",
+      "emp-04",
+      "emp-33",
+      "emp-34"
+    ],
+    "status": "Active",
+    "phase": "Maintenance",
+    "tags": [
+      "Inspection",
+      "Load Rating",
+      "Safety"
+    ],
+    "software": [
+      "AASHTOWare BrDR",
+      "MicroStation",
+      "LIMS"
+    ],
+    "relatedDepartments": [
+      "applied-research"
+    ],
+    "duration": "2020 – Ongoing",
+    "location": "Statewide",
+    "startYear": 2020,
+    "image": "1529926691761-20fb82067c71.jpg"
+  },
+  {
+    "id": "prj-12",
+    "title": "South Platte River Bridge Scour Countermeasures",
+    "summary": "Protecting Denver-area river bridges from scour with hydraulic analysis and countermeasures.",
+    "description": "Protecting Denver-area river bridges from scour with hydraulic analysis and countermeasures. This effort is led by the Hydraulics division and brings together Hydraulics, Bridge Asset Management, Environmental to deliver it. Work spans scour, bridges, rivers and relies on tools such as HEC-RAS, HY-8, MicroStation.",
+    "leadDivision": "hydraulics",
+    "divisions": [
+      "hydraulics",
+      "bridge-asset-management",
+      "environmental"
+    ],
+    "engineers": [
+      "emp-20",
+      "emp-05",
+      "emp-06",
+      "emp-07",
+      "emp-08"
+    ],
+    "status": "Active",
+    "phase": "Design",
+    "tags": [
+      "Scour",
+      "Bridges",
+      "Rivers"
+    ],
+    "software": [
+      "HEC-RAS",
+      "HY-8",
+      "MicroStation"
+    ],
+    "relatedDepartments": [
+      "materials"
+    ],
+    "duration": "2023 – 2026",
+    "location": "South Platte River, Denver",
+    "startYear": 2023,
+    "image": "1648691963120-0263f3d7d8e0.jpg"
+  },
+  {
+    "id": "prj-13",
+    "title": "US 50 Corridor Resurfacing & Safety (Pueblo)",
+    "summary": "Resurfacing and safety improvements on a vital southern Colorado freight corridor.",
+    "description": "Resurfacing and safety improvements on a vital southern Colorado freight corridor. This effort is led by the Materials & Geotechnical division and brings together Materials & Geotechnical, Construction, Traffic & Safety to deliver it. Work spans resurfacing, pavement, safety and relies on tools such as PaveDAT, AASHTOWare Project, Numetric.",
+    "leadDivision": "materials",
+    "divisions": [
+      "materials",
+      "construction",
+      "traffic-safety"
+    ],
+    "engineers": [
+      "emp-33",
+      "emp-34",
+      "emp-35"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "Resurfacing",
+      "Pavement",
+      "Safety"
+    ],
+    "software": [
+      "PaveDAT",
+      "AASHTOWare Project",
+      "Numetric"
+    ],
+    "relatedDepartments": [
+      "maintenance"
+    ],
+    "duration": "2024 – 2026",
+    "location": "US 50, Pueblo County",
+    "startYear": 2024,
+    "image": "1517089596392-fb9a9033e05b.jpg"
+  },
+  {
+    "id": "prj-14",
+    "title": "SH 9 Frisco to Breckenridge Multimodal",
+    "summary": "A mountain corridor reimagined for cars, buses, bikes, and pedestrians alike.",
+    "description": "A mountain corridor reimagined for cars, buses, bikes, and pedestrians alike. This effort is led by the Planning division and brings together Planning, Construction, Environmental to deliver it. Work spans multimodal, bike/ped, mountain and relies on tools such as Remix, TransCAD, ArcGIS.",
+    "leadDivision": "planning",
+    "divisions": [
+      "planning",
+      "construction",
+      "environmental"
+    ],
+    "engineers": [
+      "emp-14",
+      "emp-15",
+      "emp-16",
+      "emp-09"
+    ],
+    "status": "Completed",
+    "phase": "Completed",
+    "tags": [
+      "Multimodal",
+      "Bike/Ped",
+      "Mountain"
+    ],
+    "software": [
+      "Remix",
+      "TransCAD",
+      "ArcGIS"
+    ],
+    "relatedDepartments": [
+      "traffic-safety"
+    ],
+    "duration": "2017 – 2021",
+    "location": "SH 9, Summit County",
+    "startYear": 2017,
+    "image": "1494783367193-149034c05e8f.jpg"
+  },
+  {
+    "id": "prj-15",
+    "title": "Berthoud Pass Snow Shed & Drainage Study",
+    "summary": "Studying snow sheds and drainage to keep a high mountain pass safer in winter.",
+    "description": "Studying snow sheds and drainage to keep a high mountain pass safer in winter. This effort is led by the Hydraulics division and brings together Hydraulics, Maintenance, Materials & Geotechnical to deliver it. Work spans drainage, snow shed, study and relies on tools such as HEC-RAS, AssetWise, gINT.",
+    "leadDivision": "hydraulics",
+    "divisions": [
+      "hydraulics",
+      "maintenance",
+      "materials"
+    ],
+    "engineers": [
+      "emp-07",
+      "emp-08",
+      "emp-21",
+      "emp-22",
+      "emp-23"
+    ],
+    "status": "Planned",
+    "phase": "Planning",
+    "tags": [
+      "Drainage",
+      "Snow Shed",
+      "Study"
+    ],
+    "software": [
+      "HEC-RAS",
+      "AssetWise",
+      "gINT"
+    ],
+    "relatedDepartments": [
+      "environmental"
+    ],
+    "duration": "2025 – 2027",
+    "location": "US 40, Berthoud Pass",
+    "startYear": 2025,
+    "image": "1507274274451-b203cf128a8f.jpg"
+  },
+  {
+    "id": "prj-16",
+    "title": "Statewide Culvert & Drainage Inventory (GIS)",
+    "summary": "A statewide GIS inventory of culverts and drainage to guide resilient investment.",
+    "description": "A statewide GIS inventory of culverts and drainage to guide resilient investment. This effort is led by the Hydraulics division and brings together Hydraulics, Maintenance, Applied Research & Innovation, Environmental to deliver it. Work spans gis, drainage, inventory and relies on tools such as ArcGIS, HEC-RAS, Power BI.",
+    "leadDivision": "hydraulics",
+    "divisions": [
+      "hydraulics",
+      "maintenance",
+      "applied-research",
+      "environmental"
+    ],
+    "engineers": [
+      "emp-20",
+      "emp-05",
+      "emp-06"
+    ],
+    "status": "Active",
+    "phase": "Research",
+    "tags": [
+      "GIS",
+      "Drainage",
+      "Inventory"
+    ],
+    "software": [
+      "ArcGIS",
+      "HEC-RAS",
+      "Power BI"
+    ],
+    "relatedDepartments": [
+      "materials"
+    ],
+    "duration": "2022 – 2026",
+    "location": "Statewide",
+    "startYear": 2022,
+    "image": "1648691963120-0263f3d7d8e0.jpg"
+  },
+  {
+    "id": "prj-17",
+    "title": "Connected & Automated Vehicle Pilot (RoadX)",
+    "summary": "Piloting connected-vehicle technology to preview the future of Colorado’s highways.",
+    "description": "Piloting connected-vehicle technology to preview the future of Colorado’s highways. This effort is led by the Applied Research & Innovation division and brings together Applied Research & Innovation, Traffic & Safety, Planning to deliver it. Work spans connected vehicles, innovation, its and relies on tools such as Python, VISSIM, Power BI.",
+    "leadDivision": "applied-research",
+    "divisions": [
+      "applied-research",
+      "traffic-safety",
+      "planning"
+    ],
+    "engineers": [
+      "emp-25",
+      "emp-26",
+      "emp-27",
+      "emp-28"
+    ],
+    "status": "Active",
+    "phase": "Research",
+    "tags": [
+      "Connected Vehicles",
+      "Innovation",
+      "ITS"
+    ],
+    "software": [
+      "Python",
+      "VISSIM",
+      "Power BI"
+    ],
+    "relatedDepartments": [
+      "maintenance"
+    ],
+    "duration": "2021 – 2026",
+    "location": "I-70 & US 285",
+    "startYear": 2021,
+    "image": "1550751827-4bd374c3f58b.jpg"
+  },
+  {
+    "id": "prj-18",
+    "title": "Statewide Traffic Signal Retiming Program",
+    "summary": "Retiming signals across the Front Range to cut delay, emissions, and fuel use.",
+    "description": "Retiming signals across the Front Range to cut delay, emissions, and fuel use. This effort is led by the Traffic & Safety division and brings together Traffic & Safety, Applied Research & Innovation, Maintenance to deliver it. Work spans signals, operations, efficiency and relies on tools such as Synchro/SimTraffic, HCS, Numetric.",
+    "leadDivision": "traffic-safety",
+    "divisions": [
+      "traffic-safety",
+      "applied-research",
+      "maintenance"
+    ],
+    "engineers": [
+      "emp-30",
+      "emp-31",
+      "emp-32",
+      "emp-21",
+      "emp-22"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "Signals",
+      "Operations",
+      "Efficiency"
+    ],
+    "software": [
+      "Synchro/SimTraffic",
+      "HCS",
+      "Numetric"
+    ],
+    "relatedDepartments": [
+      "planning"
+    ],
+    "duration": "2020 – Ongoing",
+    "location": "Front Range",
+    "startYear": 2020,
+    "image": "1471958680802-1345a694ba6d.jpg"
+  },
+  {
+    "id": "prj-19",
+    "title": "Rural Highway Safety & Rumble Strip Deployment",
+    "summary": "Low-cost, high-impact safety treatments targeting rural roadway-departure crashes.",
+    "description": "Low-cost, high-impact safety treatments targeting rural roadway-departure crashes. This effort is led by the Traffic & Safety division and brings together Traffic & Safety, Maintenance, Materials & Geotechnical to deliver it. Work spans safety, rural, roadway departure and relies on tools such as Numetric, AssetWise, PaveDAT.",
+    "leadDivision": "traffic-safety",
+    "divisions": [
+      "traffic-safety",
+      "maintenance",
+      "materials"
+    ],
+    "engineers": [
+      "emp-23",
+      "emp-24",
+      "emp-33"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "Safety",
+      "Rural",
+      "Roadway Departure"
+    ],
+    "software": [
+      "Numetric",
+      "AssetWise",
+      "PaveDAT"
+    ],
+    "relatedDepartments": [
+      "applied-research"
+    ],
+    "duration": "2023 – 2026",
+    "location": "Statewide Rural Highways",
+    "startYear": 2023,
+    "image": "1542242476-5a3565835a38.jpg"
+  },
+  {
+    "id": "prj-20",
+    "title": "I-70 Mountain Corridor Variable Speed Limits",
+    "summary": "Variable speed limits that adapt to weather and traffic on the mountain corridor.",
+    "description": "Variable speed limits that adapt to weather and traffic on the mountain corridor. This effort is led by the Traffic & Safety division and brings together Traffic & Safety, Applied Research & Innovation, Maintenance to deliver it. Work spans variable speed, its, mountain and relies on tools such as VISSIM, Python, AssetWise.",
+    "leadDivision": "traffic-safety",
+    "divisions": [
+      "traffic-safety",
+      "applied-research",
+      "maintenance"
+    ],
+    "engineers": [
+      "emp-32",
+      "emp-21",
+      "emp-22",
+      "emp-23"
+    ],
+    "status": "Active",
+    "phase": "Maintenance",
+    "tags": [
+      "Variable Speed",
+      "ITS",
+      "Mountain"
+    ],
+    "software": [
+      "VISSIM",
+      "Python",
+      "AssetWise"
+    ],
+    "relatedDepartments": [
+      "planning"
+    ],
+    "duration": "2021 – Ongoing",
+    "location": "I-70 Mountain Corridor",
+    "startYear": 2021,
+    "image": "1494783367193-149034c05e8f.jpg"
+  },
+  {
+    "id": "prj-21",
+    "title": "Pavement Management & Recycled Materials Study",
+    "summary": "Researching recycled and sustainable materials to extend pavement life and cut cost.",
+    "description": "Researching recycled and sustainable materials to extend pavement life and cut cost. This effort is led by the Materials & Geotechnical division and brings together Materials & Geotechnical, Applied Research & Innovation, Construction to deliver it. Work spans pavement, sustainability, materials and relies on tools such as PaveDAT, MATLAB, AASHTOWare Project.",
+    "leadDivision": "materials",
+    "divisions": [
+      "materials",
+      "applied-research",
+      "construction"
+    ],
+    "engineers": [
+      "emp-09",
+      "emp-10",
+      "emp-11",
+      "emp-12",
+      "emp-33"
+    ],
+    "status": "Active",
+    "phase": "Research",
+    "tags": [
+      "Pavement",
+      "Sustainability",
+      "Materials"
+    ],
+    "software": [
+      "PaveDAT",
+      "MATLAB",
+      "AASHTOWare Project"
+    ],
+    "relatedDepartments": [
+      "maintenance"
+    ],
+    "duration": "2022 – 2026",
+    "location": "Statewide",
+    "startYear": 2022,
+    "image": "1503708928676-1cb796a0891e.jpg"
+  },
+  {
+    "id": "prj-22",
+    "title": "Statewide ADA Curb Ramp Compliance",
+    "summary": "Bringing thousands of curb ramps into ADA compliance for an accessible system.",
+    "description": "Bringing thousands of curb ramps into ADA compliance for an accessible system. This effort is led by the Construction division and brings together Construction, Planning, Maintenance to deliver it. Work spans ada, accessibility, compliance and relies on tools such as AASHTOWare Project, ArcGIS, Bluebeam Revu.",
+    "leadDivision": "construction",
+    "divisions": [
+      "construction",
+      "planning",
+      "maintenance"
+    ],
+    "engineers": [
+      "emp-22",
+      "emp-23",
+      "emp-24"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "ADA",
+      "Accessibility",
+      "Compliance"
+    ],
+    "software": [
+      "AASHTOWare Project",
+      "ArcGIS",
+      "Bluebeam Revu"
+    ],
+    "relatedDepartments": [
+      "traffic-safety"
+    ],
+    "duration": "2020 – Ongoing",
+    "location": "Statewide",
+    "startYear": 2020,
+    "image": "1575281923032-f40d94ef6160.jpg"
+  },
+  {
+    "id": "prj-23",
+    "title": "Front Range Passenger Rail Planning Study",
+    "summary": "Planning passenger rail to connect Front Range communities from Fort Collins to Pueblo.",
+    "description": "Planning passenger rail to connect Front Range communities from Fort Collins to Pueblo. This effort is led by the Planning division and brings together Planning, Environmental, Applied Research & Innovation to deliver it. Work spans rail, multimodal, long-range and relies on tools such as TransCAD, ArcGIS, Power BI.",
+    "leadDivision": "planning",
+    "divisions": [
+      "planning",
+      "environmental",
+      "applied-research"
+    ],
+    "engineers": [
+      "emp-31",
+      "emp-32",
+      "emp-13",
+      "emp-14"
+    ],
+    "status": "Planned",
+    "phase": "Planning",
+    "tags": [
+      "Rail",
+      "Multimodal",
+      "Long-Range"
+    ],
+    "software": [
+      "TransCAD",
+      "ArcGIS",
+      "Power BI"
+    ],
+    "relatedDepartments": [
+      "construction"
+    ],
+    "duration": "2023 – 2030",
+    "location": "Front Range Corridor",
+    "startYear": 2023,
+    "image": "1477951233099-d2c5fbd878ee.jpg"
+  },
+  {
+    "id": "prj-24",
+    "title": "Wildlife Connectivity & Fencing Program (US 285)",
+    "summary": "Wildlife fencing and crossings that cut animal-vehicle collisions and reconnect habitat.",
+    "description": "Wildlife fencing and crossings that cut animal-vehicle collisions and reconnect habitat. This effort is led by the Environmental division and brings together Environmental, Maintenance, Planning to deliver it. Work spans wildlife, fencing, connectivity and relies on tools such as ArcGIS, AERMOD, Remix.",
+    "leadDivision": "environmental",
+    "divisions": [
+      "environmental",
+      "maintenance",
+      "planning"
+    ],
+    "engineers": [
+      "emp-16",
+      "emp-17",
+      "emp-18",
+      "emp-19",
+      "emp-20"
+    ],
+    "status": "Active",
+    "phase": "Design",
+    "tags": [
+      "Wildlife",
+      "Fencing",
+      "Connectivity"
+    ],
+    "software": [
+      "ArcGIS",
+      "AERMOD",
+      "Remix"
+    ],
+    "relatedDepartments": [
+      "construction"
+    ],
+    "duration": "2022 – 2026",
+    "location": "US 285, Park County",
+    "startYear": 2022,
+    "image": "1657570391450-6095159087eb.jpg"
+  },
+  {
+    "id": "prj-25",
+    "title": "Statewide Stormwater MS4 Compliance",
+    "summary": "Meeting clean-water permit requirements to protect rivers from highway runoff.",
+    "description": "Meeting clean-water permit requirements to protect rivers from highway runoff. This effort is led by the Environmental division and brings together Environmental, Hydraulics, Maintenance to deliver it. Work spans stormwater, compliance, water quality and relies on tools such as ArcGIS, HEC-RAS, AssetWise.",
+    "leadDivision": "environmental",
+    "divisions": [
+      "environmental",
+      "hydraulics",
+      "maintenance"
+    ],
+    "engineers": [
+      "emp-17",
+      "emp-18",
+      "emp-19"
+    ],
+    "status": "Active",
+    "phase": "Maintenance",
+    "tags": [
+      "Stormwater",
+      "Compliance",
+      "Water Quality"
+    ],
+    "software": [
+      "ArcGIS",
+      "HEC-RAS",
+      "AssetWise"
+    ],
+    "relatedDepartments": [
+      "materials"
+    ],
+    "duration": "2019 – Ongoing",
+    "location": "Statewide MS4 Areas",
+    "startYear": 2019,
+    "image": "1679163255376-b7767bd3bac5.jpg"
+  },
+  {
+    "id": "prj-26",
+    "title": "Colorado Airport Pavement & Drainage Program",
+    "summary": "Runway, taxiway, and drainage improvements keeping public-use airports operational.",
+    "description": "Runway, taxiway, and drainage improvements keeping public-use airports operational. This effort is led by the Aeronautics division and brings together Aeronautics, Materials & Geotechnical, Hydraulics to deliver it. Work spans aviation, pavement, drainage and relies on tools such as PAVEAIR, gINT, HEC-RAS.",
+    "leadDivision": "aviation",
+    "divisions": [
+      "aviation",
+      "materials",
+      "hydraulics"
+    ],
+    "engineers": [
+      "emp-38",
+      "emp-39",
+      "emp-40",
+      "emp-33",
+      "emp-37"
+    ],
+    "status": "Active",
+    "phase": "Construction",
+    "tags": [
+      "Aviation",
+      "Pavement",
+      "Drainage"
+    ],
+    "software": [
+      "PAVEAIR",
+      "gINT",
+      "HEC-RAS"
+    ],
+    "relatedDepartments": [
+      "environmental"
+    ],
+    "duration": "2021 – Ongoing",
+    "location": "Statewide Airports",
+    "startYear": 2021,
+    "image": "1556388158-158ea5ccacbd.jpg"
+  },
+  {
+    "id": "prj-27",
+    "title": "Mountain Airport Weather & NAVAID Modernization",
+    "summary": "Upgrading weather systems and navigation aids at challenging mountain airports.",
+    "description": "Upgrading weather systems and navigation aids at challenging mountain airports. This effort is led by the Aeronautics division and brings together Aeronautics, Applied Research & Innovation, Traffic & Safety to deliver it. Work spans aviation, weather, navaid and relies on tools such as ArcGIS, Python, AutoCAD.",
+    "leadDivision": "aviation",
+    "divisions": [
+      "aviation",
+      "applied-research",
+      "traffic-safety"
+    ],
+    "engineers": [
+      "emp-39",
+      "emp-40",
+      "emp-29",
+      "emp-30",
+      "emp-31"
+    ],
+    "status": "Active",
+    "phase": "Design",
+    "tags": [
+      "Aviation",
+      "Weather",
+      "NAVAID"
+    ],
+    "software": [
+      "ArcGIS",
+      "Python",
+      "AutoCAD"
+    ],
+    "relatedDepartments": [
+      "maintenance"
+    ],
+    "duration": "2023 – 2027",
+    "location": "Mountain Airports",
+    "startYear": 2023,
+    "image": "1503412345334-7d4ca6c34f61.jpg"
+  },
+  {
+    "id": "prj-28",
+    "title": "Statewide Aviation System Plan Update",
+    "summary": "A refreshed strategy for Colorado’s entire system of public-use airports.",
+    "description": "A refreshed strategy for Colorado’s entire system of public-use airports. This effort is led by the Aeronautics division and brings together Aeronautics, Planning, Environmental to deliver it. Work spans aviation, system plan, statewide and relies on tools such as ArcGIS, TransCAD, PAVEAIR.",
+    "leadDivision": "aviation",
+    "divisions": [
+      "aviation",
+      "planning",
+      "environmental"
+    ],
+    "engineers": [
+      "emp-40",
+      "emp-13",
+      "emp-14"
+    ],
+    "status": "Planned",
+    "phase": "Planning",
+    "tags": [
+      "Aviation",
+      "System Plan",
+      "Statewide"
+    ],
+    "software": [
+      "ArcGIS",
+      "TransCAD",
+      "PAVEAIR"
+    ],
+    "relatedDepartments": [
+      "applied-research"
+    ],
+    "duration": "2024 – 2027",
+    "location": "Statewide",
+    "startYear": 2024,
+    "image": "1638555063519-d009e6f3b28b.jpg"
+  },
+  {
+    "id": "prj-29",
+    "title": "Avalanche Forecasting & Mitigation (CAIC partnership)",
+    "summary": "Forecasting and triggering avalanches safely to protect mountain travelers.",
+    "description": "Forecasting and triggering avalanches safely to protect mountain travelers. This effort is led by the Maintenance division and brings together Maintenance, Materials & Geotechnical, Applied Research & Innovation to deliver it. Work spans avalanche, forecasting, safety and relies on tools such as AssetWise, Python, gINT.",
+    "leadDivision": "maintenance",
+    "divisions": [
+      "maintenance",
+      "materials",
+      "applied-research"
+    ],
+    "engineers": [
+      "emp-33",
+      "emp-34",
+      "emp-35",
+      "emp-36"
+    ],
+    "status": "Active",
+    "phase": "Maintenance",
+    "tags": [
+      "Avalanche",
+      "Forecasting",
+      "Safety"
+    ],
+    "software": [
+      "AssetWise",
+      "Python",
+      "gINT"
+    ],
+    "relatedDepartments": [
+      "environmental"
+    ],
+    "duration": "2019 – Ongoing",
+    "location": "Mountain Passes",
+    "startYear": 2019,
+    "image": "1518203441944-e9578e4b1635.jpg"
+  },
+  {
+    "id": "prj-30",
+    "title": "Fleet & Maintenance Facility Modernization",
+    "summary": "Modernizing maintenance facilities and fleet for efficiency and sustainability.",
+    "description": "Modernizing maintenance facilities and fleet for efficiency and sustainability. This effort is led by the Maintenance division and brings together Maintenance, Construction, Environmental to deliver it. Work spans facilities, fleet, sustainability and relies on tools such as AssetWise, AASHTOWare Project, ArcGIS.",
+    "leadDivision": "maintenance",
+    "divisions": [
+      "maintenance",
+      "construction",
+      "environmental"
+    ],
+    "engineers": [
+      "emp-10",
+      "emp-11",
+      "emp-12",
+      "emp-17",
+      "emp-18"
+    ],
+    "status": "Active",
+    "phase": "Design",
+    "tags": [
+      "Facilities",
+      "Fleet",
+      "Sustainability"
+    ],
+    "software": [
+      "AssetWise",
+      "AASHTOWare Project",
+      "ArcGIS"
+    ],
+    "relatedDepartments": [
+      "materials"
+    ],
+    "duration": "2024 – 2027",
+    "location": "Statewide Facilities",
+    "startYear": 2024,
+    "image": "1612770132420-297b1e77f2b2.jpg"
+  },
+  {
+    "id": "prj-31",
+    "title": "CDOT Compass",
+    "summary": "An intern-built career discovery platform created for the CDOT Innovation Challenge.",
+    "description": "CDOT Compass is a front-end prototype built during a summer internship for the CDOT Innovation Challenge. It helps interns explore divisions, projects, mentors, resources, and career paths in one place — making existing opportunities easier to discover. It is a prototype, not an officially adopted CDOT system.",
+    "leadDivision": "applied-research",
+    "divisions": [
+      "applied-research",
+      "bridge-asset-management"
+    ],
+    "engineers": [
+      "emp-41"
+    ],
+    "status": "Active",
+    "phase": "Research",
+    "tags": [
+      "Innovation",
+      "Career Discovery",
+      "Prototype"
+    ],
+    "software": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Figma"
+    ],
+    "relatedDepartments": [
+      "planning",
+      "aviation"
+    ],
+    "duration": "2026 – Present",
+    "location": "Denver, CO",
+    "startYear": 2026,
+    "image": "1581092160562-40aa08e78837.jpg"
+  }
+]

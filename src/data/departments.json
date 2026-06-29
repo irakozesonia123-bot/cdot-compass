@@ -1,0 +1,639 @@
+[
+  {
+    "id": "dept-01",
+    "name": "Bridge Asset Management",
+    "shortName": "Bridge",
+    "slug": "bridge-asset-management",
+    "mission": "Keep every Colorado bridge safe, reliable, and built to last.",
+    "description": "The Bridge Asset Management division designs, inspects, rates, and maintains the thousands of state-owned bridges that carry Colorado over rivers, canyons, and interstates. The team blends structural engineering with data-driven asset management to decide where to invest for the next 50 years.",
+    "tags": [
+      "Structures",
+      "Inspection",
+      "Asset Management"
+    ],
+    "skills": [
+      "Structural Analysis",
+      "LRFD Design",
+      "Bridge Inspection",
+      "Load Rating",
+      "Steel & Concrete Design",
+      "Asset Management"
+    ],
+    "software": [
+      "AASHTOWare BrDR",
+      "MicroStation",
+      "OpenBridge Modeler",
+      "ProjectWise"
+    ],
+    "careerPaths": [
+      "Bridge Engineer I → II",
+      "Structural Design Engineer",
+      "Bridge Inspection Lead",
+      "Bridge Asset Manager"
+    ],
+    "internTasks": [
+      "Assist with load rating calculations",
+      "Shadow bridge inspections in the field",
+      "Update bridge inventory data",
+      "Draft structural details in MicroStation"
+    ],
+    "relatedDepartments": [
+      "materials",
+      "hydraulics",
+      "construction"
+    ],
+    "careerGrowth": "Grow from design and inspection support into structural design, then into asset management and program leadership.",
+    "image": "1529926691761-20fb82067c71.jpg",
+    "employees": [
+      "emp-01",
+      "emp-02",
+      "emp-03",
+      "emp-04",
+      "emp-41"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-03",
+      "prj-04",
+      "prj-05",
+      "prj-06",
+      "prj-07",
+      "prj-10",
+      "prj-11",
+      "prj-12",
+      "prj-31"
+    ]
+  },
+  {
+    "id": "dept-02",
+    "name": "Hydraulics",
+    "shortName": "Hydraulics",
+    "slug": "hydraulics",
+    "mission": "Protect Colorado’s roads and bridges from the power of water.",
+    "description": "The Hydraulics division models rivers, designs culverts and storm systems, maps floodplains, and analyzes bridge scour. Their work keeps highways open and structures standing through flash floods, snowmelt, and 100-year storms.",
+    "tags": [
+      "Water Resources",
+      "Drainage",
+      "Floodplains"
+    ],
+    "skills": [
+      "Hydrologic Modeling",
+      "Hydraulic Modeling",
+      "Scour Analysis",
+      "Floodplain Mapping",
+      "Culvert Design",
+      "Stormwater"
+    ],
+    "software": [
+      "HEC-RAS",
+      "HEC-HMS",
+      "HY-8",
+      "ArcGIS"
+    ],
+    "careerPaths": [
+      "Hydraulics Engineer I → II",
+      "Water Resources Engineer",
+      "Senior Hydraulics Engineer",
+      "Hydraulics Program Manager"
+    ],
+    "internTasks": [
+      "Build HEC-RAS models from survey data",
+      "Size culverts with HY-8",
+      "Map floodplains in GIS",
+      "Support scour evaluations for bridges"
+    ],
+    "relatedDepartments": [
+      "environmental",
+      "bridge-asset-management",
+      "maintenance"
+    ],
+    "careerGrowth": "Move from modeling support to leading hydraulic design on major river crossings and statewide drainage programs.",
+    "image": "1636589714835-f8d5aaaca493.jpg",
+    "employees": [
+      "emp-05",
+      "emp-06",
+      "emp-07",
+      "emp-08"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-02",
+      "prj-08",
+      "prj-12",
+      "prj-15",
+      "prj-16",
+      "prj-25",
+      "prj-26"
+    ]
+  },
+  {
+    "id": "dept-03",
+    "name": "Construction",
+    "shortName": "Construction",
+    "slug": "construction",
+    "mission": "Turn designs into the roads and bridges Coloradans rely on.",
+    "description": "The Construction division manages CDOT projects in the field — administering contracts, inspecting work, tracking budgets and schedules, and ensuring quality from groundbreaking to ribbon-cutting on everything from rural resurfacing to billion-dollar interstates.",
+    "tags": [
+      "Field Engineering",
+      "Project Delivery",
+      "Quality"
+    ],
+    "skills": [
+      "Construction Management",
+      "Contract Administration",
+      "Project Controls",
+      "Cost Estimating",
+      "Inspection",
+      "Quality Assurance"
+    ],
+    "software": [
+      "AASHTOWare Project",
+      "Primavera P6",
+      "Bluebeam Revu",
+      "ProjectWise"
+    ],
+    "careerPaths": [
+      "Construction Engineer I → II",
+      "Construction Inspector",
+      "Project Engineer",
+      "Resident Engineer"
+    ],
+    "internTasks": [
+      "Shadow inspectors on active sites",
+      "Track quantities and pay estimates",
+      "Review submittals in Bluebeam",
+      "Support project scheduling"
+    ],
+    "relatedDepartments": [
+      "materials",
+      "bridge-asset-management",
+      "traffic-safety"
+    ],
+    "careerGrowth": "Advance from field inspection and project controls to running entire projects as a resident engineer.",
+    "image": "1517089596392-fb9a9033e05b.jpg",
+    "employees": [
+      "emp-09",
+      "emp-10",
+      "emp-11",
+      "emp-12"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-03",
+      "prj-04",
+      "prj-05",
+      "prj-06",
+      "prj-07",
+      "prj-13",
+      "prj-14",
+      "prj-21",
+      "prj-22",
+      "prj-30"
+    ]
+  },
+  {
+    "id": "dept-04",
+    "name": "Planning",
+    "shortName": "Planning",
+    "slug": "planning",
+    "mission": "Shape the future of how Colorado moves.",
+    "description": "The Planning division develops long-range plans, corridor studies, and multimodal strategies. Combining travel data, modeling, and public engagement, the team decides which projects rise to the top and how communities stay connected.",
+    "tags": [
+      "Long-Range",
+      "Multimodal",
+      "Data & Engagement"
+    ],
+    "skills": [
+      "Transportation Planning",
+      "Travel Demand Modeling",
+      "Data Analysis",
+      "Public Engagement",
+      "Multimodal Planning",
+      "GIS"
+    ],
+    "software": [
+      "TransCAD",
+      "ArcGIS",
+      "Synchro",
+      "Remix"
+    ],
+    "careerPaths": [
+      "Planning Analyst I → II",
+      "Transportation Planner",
+      "Senior Planner",
+      "Planning Program Manager"
+    ],
+    "internTasks": [
+      "Analyze travel and crash datasets",
+      "Build maps and visualizations in GIS",
+      "Support public meetings",
+      "Help draft corridor studies"
+    ],
+    "relatedDepartments": [
+      "environmental",
+      "traffic-safety",
+      "applied-research"
+    ],
+    "careerGrowth": "Progress from data analysis into corridor and long-range planning leadership shaping statewide policy.",
+    "image": "1478059299873-f047d8c5fe1a.jpg",
+    "employees": [
+      "emp-13",
+      "emp-14",
+      "emp-15",
+      "emp-16"
+    ],
+    "projects": [
+      "prj-03",
+      "prj-06",
+      "prj-07",
+      "prj-14",
+      "prj-17",
+      "prj-22",
+      "prj-23",
+      "prj-24",
+      "prj-28"
+    ]
+  },
+  {
+    "id": "dept-05",
+    "name": "Environmental",
+    "shortName": "Environmental",
+    "slug": "environmental",
+    "mission": "Build infrastructure while protecting Colorado’s land, air, and wildlife.",
+    "description": "The Environmental division guides projects through NEPA review, permitting, and compliance. From wetlands and wildlife crossings to air quality and stormwater, the team balances mobility with stewardship of the state’s natural resources.",
+    "tags": [
+      "NEPA",
+      "Permitting",
+      "Stewardship"
+    ],
+    "skills": [
+      "NEPA",
+      "Permitting",
+      "Wetlands Delineation",
+      "Wildlife Biology",
+      "Air Quality (AERMOD)",
+      "Stormwater Compliance"
+    ],
+    "software": [
+      "ArcGIS",
+      "AERMOD",
+      "ECOS"
+    ],
+    "careerPaths": [
+      "Environmental Engineer I → II",
+      "NEPA Specialist",
+      "Wildlife Biologist",
+      "Environmental Program Manager"
+    ],
+    "internTasks": [
+      "Support NEPA documentation",
+      "Field-verify wetlands and habitat",
+      "Track permit conditions",
+      "Map resources in GIS"
+    ],
+    "relatedDepartments": [
+      "hydraulics",
+      "planning",
+      "maintenance"
+    ],
+    "careerGrowth": "Develop from documentation support into specialized environmental science and program management roles.",
+    "image": "1679163255376-b7767bd3bac5.jpg",
+    "employees": [
+      "emp-17",
+      "emp-18",
+      "emp-19",
+      "emp-20"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-02",
+      "prj-04",
+      "prj-05",
+      "prj-07",
+      "prj-12",
+      "prj-14",
+      "prj-16",
+      "prj-23",
+      "prj-24",
+      "prj-25",
+      "prj-28",
+      "prj-30"
+    ]
+  },
+  {
+    "id": "dept-06",
+    "name": "Maintenance",
+    "shortName": "Maintenance",
+    "slug": "maintenance",
+    "mission": "Keep Colorado’s highways open, safe, and in good repair year-round.",
+    "description": "The Maintenance division keeps the system running — plowing snow, mitigating avalanches and rockfall, preserving pavement, managing fleet, and maintaining drainage. Increasingly data-driven, the team decides where every maintenance dollar does the most good.",
+    "tags": [
+      "Operations",
+      "Snow & Ice",
+      "Asset Care"
+    ],
+    "skills": [
+      "Snow & Ice Operations",
+      "Avalanche Mitigation",
+      "Pavement Preservation",
+      "Fleet Management",
+      "Asset Management",
+      "Drainage Maintenance"
+    ],
+    "software": [
+      "AssetWise",
+      "ArcGIS",
+      "RoadView"
+    ],
+    "careerPaths": [
+      "Maintenance Technician → II",
+      "Avalanche Mitigation Specialist",
+      "Maintenance Asset Manager",
+      "Maintenance Superintendent"
+    ],
+    "internTasks": [
+      "Inventory roadway assets in GIS",
+      "Analyze winter operations data",
+      "Support pavement preservation planning",
+      "Ride along with maintenance crews"
+    ],
+    "relatedDepartments": [
+      "materials",
+      "hydraulics",
+      "traffic-safety"
+    ],
+    "careerGrowth": "Move from operations and asset data into specialized mitigation work and maintenance leadership.",
+    "image": "1612770132420-297b1e77f2b2.jpg",
+    "employees": [
+      "emp-21",
+      "emp-22",
+      "emp-23",
+      "emp-24"
+    ],
+    "projects": [
+      "prj-02",
+      "prj-08",
+      "prj-09",
+      "prj-15",
+      "prj-16",
+      "prj-18",
+      "prj-19",
+      "prj-20",
+      "prj-22",
+      "prj-24",
+      "prj-25",
+      "prj-29",
+      "prj-30"
+    ]
+  },
+  {
+    "id": "dept-07",
+    "name": "Traffic & Safety",
+    "shortName": "Traffic & Safety",
+    "slug": "traffic-safety",
+    "mission": "Use data and technology to move people safely.",
+    "description": "The Traffic & Safety division designs signals, deploys intelligent transportation systems, and runs data-driven safety programs. By studying crash patterns and modeling traffic, the team targets the improvements that save the most lives.",
+    "tags": [
+      "Safety",
+      "Operations",
+      "ITS"
+    ],
+    "skills": [
+      "Traffic Signal Design",
+      "Safety Analysis",
+      "Crash Data Analysis",
+      "ITS",
+      "Microsimulation",
+      "Signing & Striping"
+    ],
+    "software": [
+      "Synchro/SimTraffic",
+      "VISSIM",
+      "HCS",
+      "Numetric"
+    ],
+    "careerPaths": [
+      "Safety Analyst I → II",
+      "Traffic Operations Engineer",
+      "ITS Engineer",
+      "Traffic & Safety Program Manager"
+    ],
+    "internTasks": [
+      "Analyze crash data",
+      "Build Synchro/VISSIM models",
+      "Support signal timing studies",
+      "Map safety projects in GIS"
+    ],
+    "relatedDepartments": [
+      "applied-research",
+      "planning",
+      "maintenance"
+    ],
+    "careerGrowth": "Grow from safety analysis into traffic operations, ITS deployment, and statewide safety leadership.",
+    "image": "1542242476-5a3565835a38.jpg",
+    "employees": [
+      "emp-25",
+      "emp-26",
+      "emp-27",
+      "emp-28"
+    ],
+    "projects": [
+      "prj-01",
+      "prj-03",
+      "prj-05",
+      "prj-06",
+      "prj-09",
+      "prj-13",
+      "prj-17",
+      "prj-18",
+      "prj-19",
+      "prj-20",
+      "prj-27"
+    ]
+  },
+  {
+    "id": "dept-08",
+    "name": "Applied Research & Innovation",
+    "shortName": "Applied Research",
+    "slug": "applied-research",
+    "mission": "Pilot the innovations that become tomorrow’s standards.",
+    "description": "The Applied Research & Innovation branch tests new ideas — connected vehicles, advanced materials, data science, and emerging technology. The team partners across divisions to turn research questions into evidence that improves how CDOT builds and operates.",
+    "tags": [
+      "Innovation",
+      "Data Science",
+      "Research"
+    ],
+    "skills": [
+      "Research Design",
+      "Data Analysis",
+      "Statistics",
+      "Machine Learning",
+      "Python",
+      "Pavement Modeling"
+    ],
+    "software": [
+      "Python",
+      "R",
+      "Power BI",
+      "MATLAB"
+    ],
+    "careerPaths": [
+      "Research Analyst I → II",
+      "Data Scientist",
+      "Research Engineer",
+      "Applied Research Manager"
+    ],
+    "internTasks": [
+      "Clean and analyze research datasets",
+      "Build dashboards in Power BI",
+      "Support field pilots",
+      "Conduct literature reviews"
+    ],
+    "relatedDepartments": [
+      "traffic-safety",
+      "planning",
+      "materials"
+    ],
+    "careerGrowth": "Advance from data analysis into leading research studies and statewide innovation initiatives.",
+    "image": "1581092163144-b7ae3c00adbc.jpg",
+    "employees": [
+      "emp-29",
+      "emp-30",
+      "emp-31",
+      "emp-32"
+    ],
+    "projects": [
+      "prj-09",
+      "prj-10",
+      "prj-16",
+      "prj-17",
+      "prj-18",
+      "prj-20",
+      "prj-21",
+      "prj-23",
+      "prj-27",
+      "prj-29",
+      "prj-31"
+    ]
+  },
+  {
+    "id": "dept-09",
+    "name": "Materials & Geotechnical",
+    "shortName": "Materials",
+    "slug": "materials",
+    "mission": "Make sure what Colorado builds on, and with, will last.",
+    "description": "The Materials & Geotechnical division designs pavements, tests construction materials, and investigates the soils and slopes beneath every project. From mix designs to rockfall mitigation, the team safeguards quality and stability.",
+    "tags": [
+      "Geotechnical",
+      "Pavement",
+      "Lab & Field"
+    ],
+    "skills": [
+      "Geotechnical Engineering",
+      "Pavement Design",
+      "Materials Testing",
+      "Soils & Foundations",
+      "Rockfall Mitigation",
+      "QA/QC"
+    ],
+    "software": [
+      "gINT",
+      "LIMS",
+      "PaveDAT"
+    ],
+    "careerPaths": [
+      "Materials Technician → II",
+      "Pavement Materials Engineer",
+      "Geotechnical Engineer",
+      "Geotechnical Program Manager"
+    ],
+    "internTasks": [
+      "Run material tests in the lab",
+      "Log soil borings with gINT",
+      "Support pavement mix designs",
+      "Assist with rockfall assessments"
+    ],
+    "relatedDepartments": [
+      "construction",
+      "bridge-asset-management",
+      "maintenance"
+    ],
+    "careerGrowth": "Progress from lab and field testing into pavement and geotechnical design, then program leadership.",
+    "image": "1529792083865-d23889753466.jpg",
+    "employees": [
+      "emp-33",
+      "emp-34",
+      "emp-35",
+      "emp-36"
+    ],
+    "projects": [
+      "prj-02",
+      "prj-04",
+      "prj-08",
+      "prj-10",
+      "prj-11",
+      "prj-13",
+      "prj-15",
+      "prj-19",
+      "prj-21",
+      "prj-26",
+      "prj-29"
+    ]
+  },
+  {
+    "id": "dept-10",
+    "name": "Aeronautics",
+    "shortName": "Aviation",
+    "slug": "aviation",
+    "mission": "Keep Colorado connected by air, from the plains to the peaks.",
+    "description": "The Division of Aeronautics supports Colorado’s 70+ public-use airports with planning, pavement and drainage design, grant administration, and aviation system strategy — keeping mountain and rural communities linked to the wider world.",
+    "tags": [
+      "Airports",
+      "Planning",
+      "Grants"
+    ],
+    "skills": [
+      "Airport Planning",
+      "Pavement Management",
+      "Grant Administration (FAA)",
+      "Drainage",
+      "Aviation Safety",
+      "GIS"
+    ],
+    "software": [
+      "PAVEAIR",
+      "ArcGIS",
+      "AutoCAD"
+    ],
+    "careerPaths": [
+      "Aviation Engineer I → II",
+      "Aviation Planner",
+      "Airport Engineer",
+      "Aeronautics Division Manager"
+    ],
+    "internTasks": [
+      "Support airport layout plans",
+      "Analyze pavement condition data",
+      "Help administer FAA grants",
+      "Map airport assets in GIS"
+    ],
+    "relatedDepartments": [
+      "materials",
+      "hydraulics",
+      "planning"
+    ],
+    "careerGrowth": "Move from airport design support into aviation planning, engineering, and division leadership.",
+    "image": "1619659085985-f51a00f0160a.jpg",
+    "employees": [
+      "emp-37",
+      "emp-38",
+      "emp-39",
+      "emp-40"
+    ],
+    "projects": [
+      "prj-26",
+      "prj-27",
+      "prj-28"
+    ]
+  }
+]
