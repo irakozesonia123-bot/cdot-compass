@@ -9,39 +9,13 @@ import type { Variants, Transition } from 'framer-motion'
  */
 
 /** Smooth ease-out curve used across the app. */
-export const EASE_OUT: number[] = [0.22, 1, 0.36, 1]
+const EASE_OUT: number[] = [0.22, 1, 0.36, 1]
 
-export const DURATION = {
+const DURATION = {
   fast: 0.2,
   base: 0.32,
   slow: 0.5,
 } as const
-
-/** Simple opacity fade. */
-export const fade: Variants = {
-  hidden: { opacity: 0 },
-  visible: { opacity: 1, transition: { duration: DURATION.base, ease: EASE_OUT } },
-}
-
-/** Fade combined with a small upward slide — the default entrance. */
-export const slideUp: Variants = {
-  hidden: { opacity: 0, y: 12 },
-  visible: {
-    opacity: 1,
-    y: 0,
-    transition: { duration: DURATION.base, ease: EASE_OUT },
-  },
-}
-
-/** Subtle scale-in, for cards and reveals. */
-export const scaleIn: Variants = {
-  hidden: { opacity: 0, scale: 0.97 },
-  visible: {
-    opacity: 1,
-    scale: 1,
-    transition: { duration: DURATION.base, ease: EASE_OUT },
-  },
-}
 
 /** Slightly larger reveal for hero / result moments. */
 export const reveal: Variants = {

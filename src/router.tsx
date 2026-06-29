@@ -23,7 +23,6 @@ const Settings = lazy(() => import('@/pages/Settings'))
 const Saved = lazy(() => import('@/pages/Saved'))
 const Profile = lazy(() => import('@/pages/Profile'))
 const Impact = lazy(() => import('@/pages/Impact'))
-const DevShowcase = lazy(() => import('@/pages/DevShowcase'))
 const NotFound = lazy(() => import('@/pages/NotFound'))
 
 export const router = createBrowserRouter([
@@ -46,8 +45,6 @@ export const router = createBrowserRouter([
       { path: 'saved', Component: Saved },
       { path: 'profile', Component: Profile },
       { path: 'impact', Component: Impact },
-      // Dev-only component showcase (not in the sidebar).
-      { path: 'dev', Component: DevShowcase },
       { path: '*', Component: NotFound },
     ],
   },
