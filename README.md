@@ -4,10 +4,10 @@
 
 # CDOT Compass
 
-### Intelligent career navigation for the people who keep Colorado moving.
+### A friendlier way to explore everything CDOT already offers.
 
-Discover divisions, projects, mentors, and career pathways across CDOT —
-in one place, in minutes instead of weeks.
+Discover divisions, projects, people, and career paths across CDOT —
+all in one place, easy to explore.
 
 <br/>
 
@@ -35,38 +35,46 @@ in one place, in minutes instead of weeks.
 
 ## The story behind it
 
-I started as a bridge intern, excited and a little lost.
+I built CDOT Compass during my summer internship, as my submission for the CDOT Innovation Challenge. It didn't start from a problem I was trying to fix — it started from something I genuinely enjoyed.
 
-Within my first week I kept hearing about things I wished I'd known on day one — a mentor in Hydraulics who loved teaching, a field day over in Aviation, a project that could've used a fresh set of eyes. The opportunities were real and they were *everywhere*. But there was no map.
+One of my favorite parts of the internship was realizing how much interesting work happens across CDOT, well beyond my own team. Almost every week I'd learn about a division, a project, or a career path I hadn't known much about — usually just by talking to people at lunch, at networking events, in meetings, or in passing around the office. I kept leaving those conversations thinking the same few things:
 
-I realized CDOT didn't have a discovery problem because it lacked opportunities. It had one because those opportunities were **scattered** — across emails, SharePoint folders, Teams channels, networking events, hallway conversations, and the memory of whoever happened to be in the room. If you knew exactly who to ask, you found it. If you didn't, you missed it.
+> *"I had no idea this even existed."*
+> *"I wish I'd known about it sooner."*
+> *"How many other things am I missing simply because I don't know where to look?"*
 
-So I built the thing I wished I'd had.
+That last one stuck with me. CDOT already offers so many ways to learn and grow — through its people, projects, divisions, events, resources, career conversations, job shadows, and mentorship. The opportunities are absolutely there. They're just not always easy to find when you're new and still figuring out where to look.
+
+So I started imagining something different: what if you could explore CDOT the way you explore a new city — with a map? One place where you could see what each division does, find projects happening across Colorado, meet the people behind them, learn about different career paths, and set up a coffee chat or job shadow when something caught your eye.
+
+The more I thought about it, the more I realized this wasn't only useful for interns. When someone new doesn't get to see the full breadth of work at CDOT, they might never cross paths with the division, mentor, or project that would have meant the most to them — and CDOT misses a chance to show off the work it's already doing and connect it with the people who'd love to be part of it.
+
+That's the idea CDOT Compass is built around.
 
 ---
 
 ## The problem
 
-For a new intern, rotational engineer, or recent hire, the first question is rarely *"what's the answer?"* — it's **"where do I even look?"**
+To be clear, this isn't a knock on CDOT — the opportunities are real, and there are a lot of them. The honest challenge is just *discovery*. When you're new, it takes time to learn what exists and where to look, and a few things make that harder than it needs to be.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Information is fragmented**
-Opportunities live in a dozen disconnected places, none of them searchable together.
+**It lives in a lot of places**
+Opportunities show up across emails, resource sites, Teams, events, and conversations — rarely all in one place you can search.
 
-**Discovery depends on luck**
-You find a mentor or a project because you happened to sit next to the right person.
+**It's easy to walk past**
+If you don't already know a project or a mentor exists, you don't know to ask about it.
 
 </td>
 <td width="50%" valign="top">
 
-**Onboarding is slow**
-It can take weeks to build the mental map of CDOT that a tool could give you in minutes.
+**Getting your bearings takes time**
+Building a mental picture of CDOT mostly happens gradually, one conversation at a time.
 
-**Talent gets missed**
-Great people and the divisions where they'd thrive never quite find each other.
+**There's potential on both sides**
+Interns hoping to find their fit, and divisions with work they'd love to share — a little more visibility could help them meet in the middle.
 
 </td>
 </tr>
@@ -77,9 +85,9 @@ Great people and the divisions where they'd thrive never quite find each other.
 ## The solution
 
 > [!IMPORTANT]
-> **CDOT Compass doesn't create new programs.** It helps people discover and make better use of the incredible opportunities that **already exist** — making them *visible, searchable, and easy to act on.*
+> **CDOT Compass doesn't create new programs.** It helps people discover, explore, and make better use of the opportunities that **already exist** — bringing them together somewhere you can actually search and browse them.
 
-A single, calm, enterprise-grade workspace where an intern can land on day one and immediately understand **where to go next and why.**
+It's one place where someone new can land, get their bearings, and start exploring — without having to know the right person to ask first. The goal is simple: on day one, you should be able to see where to go next and why.
 
 ---
 
@@ -239,6 +247,8 @@ CDOT Compass is feature-complete as a prototype. The items below are **planned d
 | Status | Capability |
 | --- | --- |
 | ✅ **Today** | Explainable, **rules-based** recommendations across divisions, people, projects, resources & events |
+| 🔭 Planned | **Personal accounts** — sign in with your CDOT account to keep your own saved items, history, and progress (today the demo opens to one shared profile) |
+| 🔭 Planned | **Mobile app** — an installable version so Compass is easy to carry on your phone |
 | 🔭 Planned | **AI Career Match** — recommend mentors, divisions & projects from your goals, explained in plain language |
 | 🔭 Planned | **Personalized recommendations** that learn from activity and interests |
 | 🔭 Planned | **Knowledge graph** of how people, projects, and skills connect |
@@ -261,7 +271,7 @@ Building CDOT Compass end-to-end stretched me well beyond writing code:
 - **Design systems** — building consistent tokens for spacing, color, and motion instead of one-off styles.
 - **Software engineering hygiene** — TypeScript strictness, dead-code/dependency audits, and a clean production build.
 - **Git & deployment** — meaningful commits, a versioned release, and a live deployment on Vercel with SPA routing.
-- **Stakeholder framing** — translating a technical build into an executive narrative leadership can evaluate in five minutes.
+- **Talking to people** — the project came out of conversations, and explaining it back to mentors and leadership taught me as much as building it did.
 
 ---
 
@@ -276,7 +286,9 @@ Building CDOT Compass end-to-end stretched me well beyond writing code:
 
 ## Acknowledgements
 
-Built during a summer internship with the encouragement of the mentors, managers, and fellow interns across CDOT who took the time to share what they do — the very conversations that inspired this project.
+Built during a summer internship, thanks to the mentors, managers, and fellow interns across CDOT who took the time to share what they do. Those conversations are the whole reason this project exists.
+
+If there's one idea I hope comes through, it's this: every one of these opportunities already exists at CDOT. I just wanted to make them a little easier to find.
 
 <div align="center">
 <br/>
