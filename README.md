@@ -2,6 +2,14 @@
 
 A career‑discovery prototype designed to help interns explore divisions, projects, mentors, resources, events, and career pathways across CDOT — in one place, in minutes instead of weeks.
 
+## 🚀 Live Demo
+
+**→ [cdot-compass.vercel.app](https://cdot-compass.vercel.app)**
+
+No sign‑in required — open the link and start exploring.
+
+---
+
 > **Disclaimer:** CDOT Compass is an independent **Innovation Challenge prototype** created during a summer internship. It is **not an official CDOT product**. All employee profiles, project records, resources, events, and recommendations shown in the prototype are **fictional / representative sample data** for demonstration purposes only.
 
 ---
