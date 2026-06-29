@@ -2,6 +2,7 @@ import { Navigation, FolderKanban, Calendar, Star, TrendingUp, Sparkles, Users, 
 import { PageContainer } from '@/components/layout/PageContainer'
 import { PageSection } from '@/components/layout/PageSection'
 import { ViewAllLink } from '@/components/common/ViewAllLink'
+import { DemoWelcome } from '@/components/common/DemoWelcome'
 import { WelcomeHero } from '@/components/dashboard/WelcomeHero'
 import { QuickActions } from '@/components/dashboard/QuickActions'
 import { RecommendedForYou } from '@/components/dashboard/RecommendedForYou'
@@ -27,6 +28,7 @@ import {
 export default function Dashboard() {
   return (
     <PageContainer>
+      <DemoWelcome />
       <WelcomeHero />
 
       <PageSection title="Quick actions" icon={Sparkles} accent="blue">

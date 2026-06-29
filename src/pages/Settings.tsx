@@ -33,7 +33,10 @@ export default function Settings() {
         accent="gray"
       />
 
-      <PageSection title="Account">
+      <PageSection
+        title="Demo profile"
+        description="The sample intern this prototype is shown through. In a full version, employees would sign in with their own CDOT account."
+      >
         <Card className="divide-y divide-border">
           <Row label="Name" value={`${INTERN_PROFILE.name} Irakoze`} />
           <Row label="Role" value={INTERN_PROFILE.role} />

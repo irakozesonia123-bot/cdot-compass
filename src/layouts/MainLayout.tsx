@@ -142,6 +142,13 @@ function TopBar({ onMenuClick, onSearchClick }: { onMenuClick: () => void; onSea
       </button>
 
       <div className="flex items-center gap-1.5 text-muted-foreground">
+        <span
+          title="You're exploring a demo profile — no sign-in required"
+          className="hidden items-center gap-1.5 rounded-full border border-border bg-muted/60 px-2.5 py-1 text-[11px] font-semibold text-muted-foreground sm:inline-flex"
+        >
+          <span className="h-1.5 w-1.5 rounded-full bg-cdot-orange" aria-hidden />
+          Demo profile
+        </span>
         <button
           type="button"
           onClick={onSearchClick}

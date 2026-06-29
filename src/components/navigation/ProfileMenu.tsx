@@ -55,7 +55,12 @@ export function ProfileMenu() {
             role="menu"
           >
             <div className="border-b border-border px-4 py-3">
-              <p className="text-small font-semibold text-heading">{INTERN_PROFILE.name}</p>
+              <div className="flex items-center justify-between gap-2">
+                <p className="text-small font-semibold text-heading">{INTERN_PROFILE.name} Irakoze</p>
+                <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground">
+                  Demo
+                </span>
+              </div>
               <p className="text-xs text-muted-foreground">
                 {INTERN_PROFILE.role}
                 {division ? ` · ${division.shortName}` : ''}
@@ -74,6 +79,12 @@ export function ProfileMenu() {
                   {label}
                 </Link>
               ))}
+            </div>
+            <div className="border-t border-border bg-muted/30 px-4 py-2.5">
+              <p className="text-[11px] leading-snug text-muted-foreground">
+                You're exploring a sample profile. In a full version, you'd sign in with your CDOT
+                account.
+              </p>
             </div>
           </motion.div>
         )}

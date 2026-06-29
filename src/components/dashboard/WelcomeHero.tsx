@@ -38,10 +38,16 @@ export function WelcomeHero() {
       {/* Greeting / CTAs */}
       <div className="relative isolate overflow-hidden rounded-card bg-gradient-to-br from-primary to-cdot-navy p-8 text-white shadow-card sm:p-10 lg:col-span-2">
         <HeroPattern className="absolute inset-0 -z-10 text-white" />
-        <p className="text-small font-medium text-white/80">
-          {INTERN_PROFILE.role} · Week {INTERN_PROFILE.weekNumber} of {INTERN_PROFILE.programWeeks}
-        </p>
-        <h1 className="mt-1 text-3xl font-bold tracking-tight sm:text-4xl">
+        <div className="flex flex-wrap items-center gap-x-2.5 gap-y-1.5">
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-white/15 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-white ring-1 ring-inset ring-white/25">
+            <span className="h-1.5 w-1.5 rounded-full bg-cdot-yellow" aria-hidden />
+            Demo profile
+          </span>
+          <p className="text-small font-medium text-white/80">
+            {INTERN_PROFILE.role} · Week {INTERN_PROFILE.weekNumber} of {INTERN_PROFILE.programWeeks}
+          </p>
+        </div>
+        <h1 className="mt-1.5 text-3xl font-bold tracking-tight sm:text-4xl">
           {greeting}, {INTERN_PROFILE.name} 👋
         </h1>
         <p className="mt-2 max-w-lg text-white/85">
