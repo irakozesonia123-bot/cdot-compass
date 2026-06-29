@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import { Building2, Calendar, Coffee, Compass, Navigation, Sparkles } from 'lucide-react'
 import { reveal } from '@/animations/variants'
 import { HeroPattern } from '@/components/common/HeroPattern'
-import { INTERN_PROFILE, getOverallProgress } from '@/config/internProfile'
+import { INTERN_PROFILE } from '@/config/internProfile'
 import {
   getDepartmentBySlug,
   getEmployeeById,
@@ -12,7 +12,6 @@ import {
 } from '@/utils/data'
 import { formatEventDate } from '@/utils/date'
 import { useGreeting } from '@/hooks/useGreeting'
-import { useBookmarks } from '@/hooks/useBookmarks'
 import { useDemoAction } from '@/hooks/useDemoAction'
 
 /**
@@ -21,14 +20,13 @@ import { useDemoAction } from '@/hooks/useDemoAction'
  */
 export function WelcomeHero() {
   const greeting = useGreeting()
-  const { bookmarks } = useBookmarks()
   const { requestCoffeeChat } = useDemoAction()
 
   const division = getDepartmentBySlug(INTERN_PROFILE.currentDivision)
   const mentor = getEmployeeById(INTERN_PROFILE.mentorId)
   const today = new Date().toISOString().slice(0, 10)
   const nextEvent = getUpcomingEvents(today)[0] ?? getEventsSorted()[0]
-  const overall = getOverallProgress(bookmarks.length)
+  const weekPct = Math.round((INTERN_PROFILE.weekNumber / INTERN_PROFILE.programWeeks) * 100)
 
   return (
     <motion.section
@@ -83,16 +81,19 @@ export function WelcomeHero() {
         <div>
           <div className="flex items-center justify-between">
             <span className="text-small font-semibold text-heading">Internship progress</span>
-            <span className="text-small font-semibold text-primary">{overall}%</span>
+            <span className="text-small font-semibold text-primary">
+              Week {INTERN_PROFILE.weekNumber} of {INTERN_PROFILE.programWeeks}
+            </span>
           </div>
           <div className="mt-2 h-2 w-full overflow-hidden rounded-full bg-muted">
             <div
               className="h-full rounded-full bg-primary transition-all"
-              style={{ width: `${overall}%` }}
+              style={{ width: `${weekPct}%` }}
             />
           </div>
           <p className="mt-1.5 text-xs text-muted-foreground">
-            You’re {overall}% through your onboarding journey.
+            You’re in week {INTERN_PROFILE.weekNumber} of your {INTERN_PROFILE.programWeeks}-week
+            internship.
           </p>
         </div>
 
