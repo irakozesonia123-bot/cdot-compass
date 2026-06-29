@@ -14,17 +14,18 @@ export function AiPreviewCard() {
 
       <h2 className="mt-3 text-xl font-semibold text-heading sm:text-2xl">AI Career Match</h2>
       <p className="mt-2 max-w-2xl text-body text-muted-foreground">
-        Today, Compass Guide uses a transparent, rules-based engine you can see the reasoning
-        behind. A future version could use AI to learn from your interests, conversations, and
-        activity to recommend divisions, mentors, and projects automatically — and explain its
-        suggestions in plain language.
+        Today, Compass Guide uses a transparent, rules-based recommendation engine so interns can
+        understand why suggestions are made. A future version could use AI to learn from interests,
+        previous activity, conversations, and career goals to recommend mentors, divisions,
+        projects, resources, and opportunities — and explain those recommendations in plain
+        language.
       </p>
 
       {/* Faux, disabled preview to hint at the future interaction */}
       <div className="mt-5 flex max-w-lg items-center gap-2 rounded-button border border-border bg-card/70 p-2 opacity-70">
         <Sparkles className="ml-1 h-4 w-4 shrink-0 text-primary" aria-hidden />
         <span className="flex-1 truncate text-small text-muted-foreground">
-          “Find me a mentor working on mountain bridge projects…”
+          “I enjoyed my bridge inspection day. What teams should I explore next?”
         </span>
         <span className="inline-flex items-center gap-1.5 rounded-button bg-muted px-3 py-1.5 text-small font-semibold text-muted-foreground">
           <Lock className="h-3.5 w-3.5" aria-hidden />
@@ -33,7 +34,7 @@ export function AiPreviewCard() {
       </div>
 
       <p className="mt-3 text-xs text-muted-foreground">
-        Preview only — no AI is used in this prototype.
+        Preview only — AI is not used in this Innovation Challenge prototype.
       </p>
     </div>
   )
